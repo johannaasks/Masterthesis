@@ -1,0 +1,13 @@
+Component 5 Information
+----------------------------
+Number of vertices: 219
+Total original edges: 276
+Unique road segments after removing duplicate (shared) edges: 226
+Number of removed edges: 50
+Number of edge attributes: 226
+Number of deleted edges due to merging of short ones: {'removed edges': 59}
+Totals Before Merge: {'edgelength': 9068.154724154965, 'weighted_avg_slope': 21.76172571719704, 'Build5m': 51535729.2656279, 'Maintain5m': 19353180.9873164, 'Build10m': 77303593.89844182, 'Maintain10m': 38651796.94922091, 'Upgrade': 19353180.9873164}
+Totals After Merge: {'edgelength': 9068.154724154965, 'weighted_avg_slope': 21.761725717197038, 'Build5m': 51535729.26562791, 'Maintain5m': 19353180.98731641, 'Build10m': 77303593.89844184, 'Maintain10m': 38651796.94922092, 'Upgrade': 19353180.98731641}
+Differences: {'edgelength': 0.0, 'weighted_avg_slope': -0.0, 'Build5m': 0.0, 'Maintain5m': 0.0, 'Build10m': 0.0, 'Maintain10m': 0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 166, 3: 10, 0: 41, 1: 2}, 'after': {2: 107, 3: 10, 0: 100, 1: 2}, 'difference': {0: 59, 1: 0, 2: -59, 3: 0}}
+----------------------------

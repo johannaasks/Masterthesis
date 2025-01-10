@@ -1,0 +1,296 @@
+Aggregated Information for All Components
+-------------------------------------------------
+
+Component 1 Information
+----------------------------
+Number of vertices: 108
+Total original edges: 136
+Unique road segments after removing duplicate (shared) edges: 111
+Number of removed edges: 25
+Number of edge attributes: 111
+Number of deleted edges due to merging of short ones: {'removed edges': 37}
+Totals Before Merge: {'edgelength': 3869.7892640339546, 'weighted_avg_slope': 24.948181306535307, 'Build5m': 20928911.021574903, 'Maintain5m': 7939672.017253422, 'Build10m': 31393366.532362357, 'Maintain10m': 15696683.266181178, 'Upgrade': 7939672.017253422}
+Totals After Merge: {'edgelength': 3869.7892640339533, 'weighted_avg_slope': 24.948181306535304, 'Build5m': 20928911.0215749, 'Maintain5m': 7939672.017253421, 'Build10m': 31393366.532362353, 'Maintain10m': 15696683.266181177, 'Upgrade': 7939672.017253421}
+Differences: {'edgelength': -0.0, 'weighted_avg_slope': -0.0, 'Build5m': -0.0, 'Maintain5m': -0.0, 'Build10m': -0.0, 'Maintain10m': -0.0, 'Upgrade': -0.0}
+Number of nodes per degree: {'before': {2: 90, 0: 12, 1: 2, 3: 4}, 'after': {2: 53, 0: 49, 1: 2, 3: 4}, 'difference': {0: 37, 1: 0, 2: -37, 3: 0}}
+----------------------------
+
+Component 2 Information
+----------------------------
+Number of vertices: 677
+Total original edges: 1055
+Unique road segments after removing duplicate (shared) edges: 753
+Number of removed edges: 302
+Number of edge attributes: 753
+Number of deleted edges due to merging of short ones: {'removed edges': 179}
+Totals Before Merge: {'edgelength': 28441.46733173928, 'weighted_avg_slope': 19.216324407448905, 'Build5m': 146290480.59734207, 'Maintain5m': 56094211.57544457, 'Build10m': 219435720.89601287, 'Maintain10m': 109717860.44800644, 'Upgrade': 56094211.57544457}
+Totals After Merge: {'edgelength': 28441.467331739274, 'weighted_avg_slope': 19.216324407448923, 'Build5m': 146290480.59734207, 'Maintain5m': 56094211.5754446, 'Build10m': 219435720.89601287, 'Maintain10m': 109717860.44800644, 'Upgrade': 56094211.5754446}
+Differences: {'edgelength': -0.0, 'weighted_avg_slope': 0.0, 'Build5m': 0.0, 'Maintain5m': 0.0, 'Build10m': 0.0, 'Maintain10m': 0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {4: 15, 2: 514, 0: 104, 3: 42, 5: 2}, 'after': {4: 15, 2: 335, 0: 283, 3: 42, 5: 2}, 'difference': {0: 179, 2: -179, 3: 0, 4: 0, 5: 0}}
+----------------------------
+
+Component 3 Information
+----------------------------
+Number of vertices: 185
+Total original edges: 223
+Unique road segments after removing duplicate (shared) edges: 191
+Number of removed edges: 32
+Number of edge attributes: 191
+Number of deleted edges due to merging of short ones: {'removed edges': 75}
+Totals Before Merge: {'edgelength': 6447.28534408364, 'weighted_avg_slope': 21.560683205202125, 'Build5m': 34706418.40885404, 'Maintain5m': 13179228.55413399, 'Build10m': 52059627.61328104, 'Maintain10m': 26029813.80664052, 'Upgrade': 13179228.55413399}
+Totals After Merge: {'edgelength': 6447.285344083642, 'weighted_avg_slope': 21.560683205202114, 'Build5m': 34706418.40885402, 'Maintain5m': 13179228.55413399, 'Build10m': 52059627.61328102, 'Maintain10m': 26029813.80664051, 'Upgrade': 13179228.55413399}
+Differences: {'edgelength': 0.0, 'weighted_avg_slope': -0.0, 'Build5m': -0.0, 'Maintain5m': 0.0, 'Build10m': -0.0, 'Maintain10m': -0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 150, 3: 8, 0: 27}, 'after': {2: 75, 0: 102, 3: 8}, 'difference': {0: 75, 2: -75, 3: 0}}
+----------------------------
+
+Component 4 Information
+----------------------------
+Number of vertices: 116
+Total original edges: 172
+Unique road segments after removing duplicate (shared) edges: 118
+Number of removed edges: 54
+Number of edge attributes: 118
+Number of deleted edges due to merging of short ones: {'removed edges': 54}
+Totals Before Merge: {'edgelength': 2965.359562765463, 'weighted_avg_slope': 22.595299999999998, 'Build5m': 14324928.499986636, 'Maintain5m': 5570131.402698644, 'Build10m': 21487392.749979954, 'Maintain10m': 10743696.374989977, 'Upgrade': 5570131.402698644}
+Totals After Merge: {'edgelength': 2965.359562765462, 'weighted_avg_slope': 22.595300000000005, 'Build5m': 14324928.499986632, 'Maintain5m': 5570131.402698645, 'Build10m': 21487392.749979947, 'Maintain10m': 10743696.374989973, 'Upgrade': 5570131.402698645}
+Differences: {'edgelength': -0.0, 'weighted_avg_slope': 0.0, 'Build5m': -0.0, 'Maintain5m': 0.0, 'Build10m': -0.0, 'Maintain10m': -0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 95, 0: 17, 1: 1, 3: 3}, 'after': {2: 41, 0: 71, 1: 1, 3: 3}, 'difference': {0: 54, 1: 0, 2: -54, 3: 0}}
+----------------------------
+
+Component 5 Information
+----------------------------
+Number of vertices: 219
+Total original edges: 276
+Unique road segments after removing duplicate (shared) edges: 226
+Number of removed edges: 50
+Number of edge attributes: 226
+Number of deleted edges due to merging of short ones: {'removed edges': 59}
+Totals Before Merge: {'edgelength': 9068.154724154965, 'weighted_avg_slope': 21.76172571719704, 'Build5m': 51535729.2656279, 'Maintain5m': 19353180.9873164, 'Build10m': 77303593.89844182, 'Maintain10m': 38651796.94922091, 'Upgrade': 19353180.9873164}
+Totals After Merge: {'edgelength': 9068.154724154965, 'weighted_avg_slope': 21.761725717197038, 'Build5m': 51535729.26562791, 'Maintain5m': 19353180.98731641, 'Build10m': 77303593.89844184, 'Maintain10m': 38651796.94922092, 'Upgrade': 19353180.98731641}
+Differences: {'edgelength': 0.0, 'weighted_avg_slope': -0.0, 'Build5m': 0.0, 'Maintain5m': 0.0, 'Build10m': 0.0, 'Maintain10m': 0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 166, 3: 10, 0: 41, 1: 2}, 'after': {2: 107, 3: 10, 0: 100, 1: 2}, 'difference': {0: 59, 1: 0, 2: -59, 3: 0}}
+----------------------------
+
+Component 6 Information
+----------------------------
+Number of vertices: 166
+Total original edges: 214
+Unique road segments after removing duplicate (shared) edges: 177
+Number of removed edges: 37
+Number of edge attributes: 177
+Number of deleted edges due to merging of short ones: {'removed edges': 60}
+Totals Before Merge: {'edgelength': 5617.439188578748, 'weighted_avg_slope': 20.236624139253124, 'Build5m': 27136478.064861927, 'Maintain5m': 10551797.77182632, 'Build10m': 40704717.09729287, 'Maintain10m': 20352358.548646435, 'Upgrade': 10551797.77182632}
+Totals After Merge: {'edgelength': 5617.439188578751, 'weighted_avg_slope': 20.236624139253102, 'Build5m': 27136478.064861923, 'Maintain5m': 10551797.771826323, 'Build10m': 40704717.09729288, 'Maintain10m': 20352358.54864644, 'Upgrade': 10551797.771826323}
+Differences: {'edgelength': 0.0, 'weighted_avg_slope': -0.0, 'Build5m': -0.0, 'Maintain5m': 0.0, 'Build10m': 0.0, 'Maintain10m': 0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 131, 0: 20, 3: 11, 4: 3, 1: 1}, 'after': {2: 71, 0: 80, 3: 11, 4: 3, 1: 1}, 'difference': {0: 60, 1: 0, 2: -60, 3: 0, 4: 0}}
+----------------------------
+
+Component 7 Information
+----------------------------
+Number of vertices: 81
+Total original edges: 112
+Unique road segments after removing duplicate (shared) edges: 83
+Number of removed edges: 29
+Number of edge attributes: 83
+Number of deleted edges due to merging of short ones: {'removed edges': 15}
+Totals Before Merge: {'edgelength': 4055.9212487159534, 'weighted_avg_slope': 18.43180325691063, 'Build5m': 19593165.907762088, 'Maintain5m': 7618642.473588048, 'Build10m': 29389748.86164313, 'Maintain10m': 14694874.430821566, 'Upgrade': 7618642.473588048}
+Totals After Merge: {'edgelength': 4055.9212487159552, 'weighted_avg_slope': 18.43180325691063, 'Build5m': 19593165.907762084, 'Maintain5m': 7618642.473588048, 'Build10m': 29389748.861643136, 'Maintain10m': 14694874.430821568, 'Upgrade': 7618642.473588048}
+Differences: {'edgelength': 0.0, 'weighted_avg_slope': 0.0, 'Build5m': -0.0, 'Maintain5m': 0.0, 'Build10m': 0.0, 'Maintain10m': 0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 61, 3: 2, 0: 16, 1: 2}, 'after': {2: 46, 3: 2, 0: 31, 1: 2}, 'difference': {0: 15, 1: 0, 2: -15, 3: 0}}
+----------------------------
+
+Component 8 Information
+----------------------------
+Number of vertices: 42
+Total original edges: 47
+Unique road segments after removing duplicate (shared) edges: 43
+Number of removed edges: 4
+Number of edge attributes: 43
+Number of deleted edges due to merging of short ones: {'removed edges': 6}
+Totals Before Merge: {'edgelength': 2749.5656823686436, 'weighted_avg_slope': 30.85403316199079, 'Build5m': 20661611.320159167, 'Maintain5m': 7379146.900056845, 'Build10m': 30992416.980238747, 'Maintain10m': 15496208.490119373, 'Upgrade': 7379146.900056845}
+Totals After Merge: {'edgelength': 2749.5656823686436, 'weighted_avg_slope': 30.854033161990785, 'Build5m': 20661611.320159163, 'Maintain5m': 7379146.9000568455, 'Build10m': 30992416.980238754, 'Maintain10m': 15496208.490119377, 'Upgrade': 7379146.9000568455}
+Differences: {'edgelength': 0.0, 'weighted_avg_slope': -0.0, 'Build5m': -0.0, 'Maintain5m': 0.0, 'Build10m': 0.0, 'Maintain10m': 0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 40, 3: 2}, 'after': {2: 34, 3: 2, 0: 6}, 'difference': {0: 6, 2: -6, 3: 0}}
+----------------------------
+
+Component 9 Information
+----------------------------
+Number of vertices: 47
+Total original edges: 58
+Unique road segments after removing duplicate (shared) edges: 48
+Number of removed edges: 10
+Number of edge attributes: 48
+Number of deleted edges due to merging of short ones: {'removed edges': 11}
+Totals Before Merge: {'edgelength': 2562.967802792007, 'weighted_avg_slope': 24.945500000000003, 'Build5m': 12381072.09114431, 'Maintain5m': 4814278.720764507, 'Build10m': 18571608.136716463, 'Maintain10m': 9285804.068358231, 'Upgrade': 4814278.720764507}
+Totals After Merge: {'edgelength': 2562.967802792007, 'weighted_avg_slope': 24.945500000000006, 'Build5m': 12381072.09114431, 'Maintain5m': 4814278.720764507, 'Build10m': 18571608.136716463, 'Maintain10m': 9285804.068358231, 'Upgrade': 4814278.720764507}
+Differences: {'edgelength': 0.0, 'weighted_avg_slope': 0.0, 'Build5m': 0.0, 'Maintain5m': 0.0, 'Build10m': 0.0, 'Maintain10m': 0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 42, 0: 3, 3: 1, 1: 1}, 'after': {2: 31, 0: 14, 3: 1, 1: 1}, 'difference': {0: 11, 1: 0, 2: -11, 3: 0}}
+----------------------------
+
+Component 10 Information
+----------------------------
+Number of vertices: 193
+Total original edges: 223
+Unique road segments after removing duplicate (shared) edges: 205
+Number of removed edges: 18
+Number of edge attributes: 205
+Number of deleted edges due to merging of short ones: {'removed edges': 82}
+Totals Before Merge: {'edgelength': 5306.566627632586, 'weighted_avg_slope': 12.24388996235729, 'Build5m': 25634728.575835884, 'Maintain5m': 9967854.753345054, 'Build10m': 38452092.86375383, 'Maintain10m': 19226046.431876916, 'Upgrade': 9967854.753345054}
+Totals After Merge: {'edgelength': 5306.566627632587, 'weighted_avg_slope': 12.243889962357288, 'Build5m': 25634728.575835906, 'Maintain5m': 9967854.753345054, 'Build10m': 38452092.863753825, 'Maintain10m': 19226046.431876913, 'Upgrade': 9967854.753345054}
+Differences: {'edgelength': 0.0, 'weighted_avg_slope': -0.0, 'Build5m': 0.0, 'Maintain5m': 0.0, 'Build10m': -0.0, 'Maintain10m': -0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {0: 17, 3: 14, 2: 155, 4: 5, 1: 2}, 'after': {0: 99, 3: 14, 2: 73, 4: 5, 1: 2}, 'difference': {0: 82, 1: 0, 2: -82, 3: 0, 4: 0}}
+----------------------------
+
+Component 11 Information
+----------------------------
+Number of vertices: 283
+Total original edges: 302
+Unique road segments after removing duplicate (shared) edges: 290
+Number of removed edges: 12
+Number of edge attributes: 290
+Number of deleted edges due to merging of short ones: {'removed edges': 185}
+Totals Before Merge: {'edgelength': 5420.356402124224, 'weighted_avg_slope': 21.077660292293032, 'Build5m': 33053598.032111507, 'Maintain5m': 12242931.617971227, 'Build10m': 49580397.0481673, 'Maintain10m': 24790198.52408365, 'Upgrade': 12242931.617971227}
+Totals After Merge: {'edgelength': 5420.356402124232, 'weighted_avg_slope': 21.07766029229299, 'Build5m': 33053598.03211151, 'Maintain5m': 12242931.617971228, 'Build10m': 49580397.04816727, 'Maintain10m': 24790198.524083637, 'Upgrade': 12242931.617971228}
+Differences: {'edgelength': 0.0, 'weighted_avg_slope': -0.0, 'Build5m': 0.0, 'Maintain5m': 0.0, 'Build10m': -0.0, 'Maintain10m': -0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 263, 0: 9, 3: 6, 1: 2, 4: 3}, 'after': {2: 78, 0: 194, 3: 6, 1: 2, 4: 3}, 'difference': {0: 185, 1: 0, 2: -185, 3: 0, 4: 0}}
+----------------------------
+
+Component 12 Information
+----------------------------
+Number of vertices: 167
+Total original edges: 205
+Unique road segments after removing duplicate (shared) edges: 175
+Number of removed edges: 30
+Number of edge attributes: 175
+Number of deleted edges due to merging of short ones: {'removed edges': 106}
+Totals Before Merge: {'edgelength': 3798.347965643385, 'weighted_avg_slope': 18.009585516271507, 'Build5m': 18348892.22511959, 'Maintain5m': 7134816.818664542, 'Build10m': 27523338.33767941, 'Maintain10m': 13761669.168839704, 'Upgrade': 7134816.818664542}
+Totals After Merge: {'edgelength': 3798.3479656433888, 'weighted_avg_slope': 18.009585516271486, 'Build5m': 18348892.22511959, 'Maintain5m': 7134816.818664541, 'Build10m': 27523338.33767939, 'Maintain10m': 13761669.168839695, 'Upgrade': 7134816.818664541}
+Differences: {'edgelength': 0.0, 'weighted_avg_slope': -0.0, 'Build5m': 0.0, 'Maintain5m': -0.0, 'Build10m': -0.0, 'Maintain10m': -0.0, 'Upgrade': -0.0}
+Number of nodes per degree: {'before': {2: 156, 4: 1, 1: 2, 3: 4, 0: 4}, 'after': {2: 50, 4: 1, 0: 110, 1: 2, 3: 4}, 'difference': {0: 106, 1: 0, 2: -106, 3: 0, 4: 0}}
+----------------------------
+
+Component 13 Information
+----------------------------
+Number of vertices: 32
+Total original edges: 36
+Unique road segments after removing duplicate (shared) edges: 33
+Number of removed edges: 3
+Number of edge attributes: 33
+Number of deleted edges due to merging of short ones: {'removed edges': 4}
+Totals Before Merge: {'edgelength': 2434.830781044475, 'weighted_avg_slope': 33.75650000000001, 'Build5m': 18296535.904158708, 'Maintain5m': 6534477.108628111, 'Build10m': 27444803.85623806, 'Maintain10m': 13722401.92811903, 'Upgrade': 6534477.108628111}
+Totals After Merge: {'edgelength': 2434.8307810444758, 'weighted_avg_slope': 33.756499999999996, 'Build5m': 18296535.904158708, 'Maintain5m': 6534477.10862811, 'Build10m': 27444803.856238067, 'Maintain10m': 13722401.928119034, 'Upgrade': 6534477.10862811}
+Differences: {'edgelength': 0.0, 'weighted_avg_slope': -0.0, 'Build5m': 0.0, 'Maintain5m': -0.0, 'Build10m': 0.0, 'Maintain10m': 0.0, 'Upgrade': -0.0}
+Number of nodes per degree: {'before': {2: 26, 0: 2, 3: 2, 1: 2}, 'after': {2: 22, 0: 6, 3: 2, 1: 2}, 'difference': {0: 4, 1: 0, 2: -4, 3: 0}}
+----------------------------
+
+Component 14 Information
+----------------------------
+Number of vertices: 97
+Total original edges: 98
+Unique road segments after removing duplicate (shared) edges: 98
+Number of removed edges: 0
+Number of edge attributes: 98
+Number of deleted edges due to merging of short ones: {'removed edges': 82}
+Totals Before Merge: {'edgelength': 999.802384208425, 'weighted_avg_slope': 32.04045877460286, 'Build5m': 7513015.016134212, 'Maintain5m': 2683219.64861936, 'Build10m': 11269522.524201311, 'Maintain10m': 5634761.262100656, 'Upgrade': 2683219.64861936}
+Totals After Merge: {'edgelength': 999.8023842084249, 'weighted_avg_slope': 32.040458774602875, 'Build5m': 7513015.016134209, 'Maintain5m': 2683219.6486193603, 'Build10m': 11269522.524201313, 'Maintain10m': 5634761.2621006565, 'Upgrade': 2683219.6486193603}
+Differences: {'edgelength': -0.0, 'weighted_avg_slope': 0.0, 'Build5m': -0.0, 'Maintain5m': 0.0, 'Build10m': 0.0, 'Maintain10m': 0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 96, 4: 1}, 'after': {2: 14, 0: 82, 4: 1}, 'difference': {0: 82, 2: -82, 4: 0}}
+----------------------------
+
+Component 15 Information
+----------------------------
+Number of vertices: 134
+Total original edges: 173
+Unique road segments after removing duplicate (shared) edges: 141
+Number of removed edges: 32
+Number of edge attributes: 141
+Number of deleted edges due to merging of short ones: {'removed edges': 31}
+Totals Before Merge: {'edgelength': 6258.217457393749, 'weighted_avg_slope': 31.507249251724858, 'Build5m': 41780946.2366766, 'Maintain5m': 15221119.077772288, 'Build10m': 62671419.35501491, 'Maintain10m': 31335709.677507456, 'Upgrade': 15221119.077772288}
+Totals After Merge: {'edgelength': 6258.217457393748, 'weighted_avg_slope': 31.507249251724872, 'Build5m': 41780946.23667659, 'Maintain5m': 15221119.077772284, 'Build10m': 62671419.3550149, 'Maintain10m': 31335709.67750745, 'Upgrade': 15221119.077772284}
+Differences: {'edgelength': -0.0, 'weighted_avg_slope': 0.0, 'Build5m': -0.0, 'Maintain5m': -0.0, 'Build10m': -0.0, 'Maintain10m': -0.0, 'Upgrade': -0.0}
+Number of nodes per degree: {'before': {2: 103, 4: 1, 0: 22, 3: 8}, 'after': {2: 72, 4: 1, 0: 53, 3: 8}, 'difference': {0: 31, 2: -31, 3: 0, 4: 0}}
+----------------------------
+
+Component 16 Information
+----------------------------
+Number of vertices: 653
+Total original edges: 1142
+Unique road segments after removing duplicate (shared) edges: 704
+Number of removed edges: 438
+Number of edge attributes: 704
+Number of deleted edges due to merging of short ones: {'removed edges': 114}
+Totals Before Merge: {'edgelength': 31120.02159253199, 'weighted_avg_slope': 24.669008288606985, 'Build5m': 198745517.8448355, 'Maintain5m': 72983625.86892234, 'Build10m': 298118276.76725316, 'Maintain10m': 149059138.38362658, 'Upgrade': 72983625.86892234}
+Totals After Merge: {'edgelength': 31120.021592531994, 'weighted_avg_slope': 24.66900828860698, 'Build5m': 198745517.8448354, 'Maintain5m': 72983625.86892238, 'Build10m': 298118276.7672531, 'Maintain10m': 149059138.38362655, 'Upgrade': 72983625.86892238}
+Differences: {'edgelength': 0.0, 'weighted_avg_slope': -0.0, 'Build5m': -0.0, 'Maintain5m': 0.0, 'Build10m': -0.0, 'Maintain10m': -0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 462, 3: 49, 0: 139, 4: 2, 1: 1}, 'after': {2: 348, 3: 49, 0: 253, 4: 2, 1: 1}, 'difference': {0: 114, 1: 0, 2: -114, 3: 0, 4: 0}}
+----------------------------
+
+Component 17 Information
+----------------------------
+Number of vertices: 67
+Total original edges: 85
+Unique road segments after removing duplicate (shared) edges: 70
+Number of removed edges: 15
+Number of edge attributes: 70
+Number of deleted edges due to merging of short ones: {'removed edges': 8}
+Totals Before Merge: {'edgelength': 4478.5393559397935, 'weighted_avg_slope': 25.850610280019982, 'Build5m': 31061772.222899567, 'Maintain5m': 11241397.401590073, 'Build10m': 46592658.334349334, 'Maintain10m': 23296329.167174667, 'Upgrade': 11241397.401590073}
+Totals After Merge: {'edgelength': 4478.539355939793, 'weighted_avg_slope': 25.850610280019982, 'Build5m': 31061772.222899567, 'Maintain5m': 11241397.401590073, 'Build10m': 46592658.334349334, 'Maintain10m': 23296329.167174667, 'Upgrade': 11241397.401590073}
+Differences: {'edgelength': -0.0, 'weighted_avg_slope': 0.0, 'Build5m': 0.0, 'Maintain5m': 0.0, 'Build10m': 0.0, 'Maintain10m': 0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 59, 0: 3, 3: 3, 1: 1, 4: 1}, 'after': {2: 51, 0: 11, 3: 3, 1: 1, 4: 1}, 'difference': {0: 8, 1: 0, 2: -8, 3: 0, 4: 0}}
+----------------------------
+
+Component 18 Information
+----------------------------
+Number of vertices: 93
+Total original edges: 117
+Unique road segments after removing duplicate (shared) edges: 96
+Number of removed edges: 21
+Number of edge attributes: 96
+Number of deleted edges due to merging of short ones: {'removed edges': 19}
+Totals Before Merge: {'edgelength': 4765.3921428350495, 'weighted_avg_slope': 32.530224606380735, 'Build5m': 29510784.139914535, 'Maintain5m': 10898962.327835929, 'Build10m': 44266176.209871806, 'Maintain10m': 22133088.104935903, 'Upgrade': 10898962.327835929}
+Totals After Merge: {'edgelength': 4765.392142835049, 'weighted_avg_slope': 32.530224606380735, 'Build5m': 29510784.13991453, 'Maintain5m': 10898962.327835934, 'Build10m': 44266176.20987179, 'Maintain10m': 22133088.104935896, 'Upgrade': 10898962.327835934}
+Differences: {'edgelength': -0.0, 'weighted_avg_slope': 0.0, 'Build5m': -0.0, 'Maintain5m': 0.0, 'Build10m': -0.0, 'Maintain10m': -0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 76, 0: 11, 1: 1, 3: 5}, 'after': {2: 57, 0: 30, 1: 1, 3: 5}, 'difference': {0: 19, 1: 0, 2: -19, 3: 0}}
+----------------------------
+
+Component 19 Information
+----------------------------
+Number of vertices: 1233
+Total original edges: 1632
+Unique road segments after removing duplicate (shared) edges: 1321
+Number of removed edges: 311
+Number of edge attributes: 1321
+Number of deleted edges due to merging of short ones: {'removed edges': 417}
+Totals Before Merge: {'edgelength': 38295.265607692614, 'weighted_avg_slope': 33.48745101183657, 'Build5m': 255556769.14330152, 'Maintain5m': 93108295.51241817, 'Build10m': 383335153.71495265, 'Maintain10m': 191667576.85747632, 'Upgrade': 93108295.51241817}
+Totals After Merge: {'edgelength': 38295.265607692556, 'weighted_avg_slope': 33.48745101183664, 'Build5m': 255556769.14330158, 'Maintain5m': 93108295.51241805, 'Build10m': 383335153.71495235, 'Maintain10m': 191667576.85747617, 'Upgrade': 93108295.51241805}
+Differences: {'edgelength': -0.0, 'weighted_avg_slope': 0.0, 'Build5m': 0.0, 'Maintain5m': -0.0, 'Build10m': -0.0, 'Maintain10m': -0.0, 'Upgrade': -0.0}
+Number of nodes per degree: {'before': {2: 900, 0: 230, 3: 83, 4: 17, 1: 2, 5: 1}, 'after': {2: 483, 0: 647, 3: 83, 4: 17, 1: 2, 5: 1}, 'difference': {0: 417, 1: 0, 2: -417, 3: 0, 4: 0, 5: 0}}
+----------------------------
+
+Component 20 Information
+----------------------------
+Number of vertices: 226
+Total original edges: 314
+Unique road segments after removing duplicate (shared) edges: 237
+Number of removed edges: 77
+Number of edge attributes: 237
+Number of deleted edges due to merging of short ones: {'removed edges': 46}
+Totals Before Merge: {'edgelength': 6928.867914669315, 'weighted_avg_slope': 20.240309396218066, 'Build5m': 36522498.526059605, 'Maintain5m': 13930691.794987405, 'Build10m': 54783747.789089404, 'Maintain10m': 27391873.894544702, 'Upgrade': 13930691.794987405}
+Totals After Merge: {'edgelength': 6928.86791466931, 'weighted_avg_slope': 20.240309396218073, 'Build5m': 36522498.526059605, 'Maintain5m': 13930691.794987405, 'Build10m': 54783747.78908941, 'Maintain10m': 27391873.894544706, 'Upgrade': 13930691.794987405}
+Differences: {'edgelength': -0.0, 'weighted_avg_slope': 0.0, 'Build5m': 0.0, 'Maintain5m': 0.0, 'Build10m': 0.0, 'Maintain10m': 0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 142, 3: 18, 0: 65, 4: 1}, 'after': {2: 96, 3: 18, 0: 111, 4: 1}, 'difference': {0: 46, 2: -46, 3: 0, 4: 0}}
+----------------------------
+
+Component 21 Information
+----------------------------
+Number of vertices: 55
+Total original edges: 70
+Unique road segments after removing duplicate (shared) edges: 57
+Number of removed edges: 13
+Number of edge attributes: 57
+Number of deleted edges due to merging of short ones: {'removed edges': 16}
+Totals Before Merge: {'edgelength': 3043.0433199586837, 'weighted_avg_slope': 24.76150000000001, 'Build5m': 14700199.776150336, 'Maintain5m': 5716052.572210395, 'Build10m': 22050299.664225504, 'Maintain10m': 11025149.832112752, 'Upgrade': 5716052.572210395}
+Totals After Merge: {'edgelength': 3043.0433199586846, 'weighted_avg_slope': 24.761500000000005, 'Build5m': 14700199.776150336, 'Maintain5m': 5716052.572210395, 'Build10m': 22050299.6642255, 'Maintain10m': 11025149.83211275, 'Upgrade': 5716052.572210395}
+Differences: {'edgelength': 0.0, 'weighted_avg_slope': -0.0, 'Build5m': 0.0, 'Maintain5m': 0.0, 'Build10m': -0.0, 'Maintain10m': -0.0, 'Upgrade': 0.0}
+Number of nodes per degree: {'before': {2: 48, 1: 1, 0: 3, 3: 3}, 'after': {2: 32, 0: 19, 1: 1, 3: 3}, 'difference': {0: 16, 1: 0, 2: -16, 3: 0}}
+----------------------------
