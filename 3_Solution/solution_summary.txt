@@ -1,0 +1,3 @@
+Objective value: 23764.0
+Total variables: 43800
+Non-zero variables: 8371
