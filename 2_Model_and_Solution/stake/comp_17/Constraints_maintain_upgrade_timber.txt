@@ -1,0 +1,35 @@
+Constraint group: Constraint_maintain_upgrade
+Total in this group: 30
+Expected: 30
+
+Constraints:
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node2_1', 'variables': ['M_timber_node1node2_t1', 'U_node1node2_t1', 'C_timber_node1node2_t0', 'M_timber_node1node2_t0'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node3_1', 'variables': ['M_timber_node1node3_t1', 'U_node1node3_t1', 'C_timber_node1node3_t0', 'M_timber_node1node3_t0'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node4_1', 'variables': ['M_timber_node1node4_t1', 'U_node1node4_t1', 'C_timber_node1node4_t0', 'M_timber_node1node4_t0'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node2node3_1', 'variables': ['M_timber_node2node3_t1', 'U_node2node3_t1', 'C_timber_node2node3_t0', 'M_timber_node2node3_t0'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node2node4_1', 'variables': ['M_timber_node2node4_t1', 'U_node2node4_t1', 'C_timber_node2node4_t0', 'M_timber_node2node4_t0'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node3node4_1', 'variables': ['M_timber_node3node4_t1', 'U_node3node4_t1', 'C_timber_node3node4_t0', 'M_timber_node3node4_t0'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node2_2', 'variables': ['M_timber_node1node2_t2', 'U_node1node2_t2', 'C_timber_node1node2_t1', 'M_timber_node1node2_t1'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node3_2', 'variables': ['M_timber_node1node3_t2', 'U_node1node3_t2', 'C_timber_node1node3_t1', 'M_timber_node1node3_t1'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node4_2', 'variables': ['M_timber_node1node4_t2', 'U_node1node4_t2', 'C_timber_node1node4_t1', 'M_timber_node1node4_t1'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node2node3_2', 'variables': ['M_timber_node2node3_t2', 'U_node2node3_t2', 'C_timber_node2node3_t1', 'M_timber_node2node3_t1'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node2node4_2', 'variables': ['M_timber_node2node4_t2', 'U_node2node4_t2', 'C_timber_node2node4_t1', 'M_timber_node2node4_t1'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node3node4_2', 'variables': ['M_timber_node3node4_t2', 'U_node3node4_t2', 'C_timber_node3node4_t1', 'M_timber_node3node4_t1'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node2_3', 'variables': ['M_timber_node1node2_t3', 'U_node1node2_t3', 'C_timber_node1node2_t2', 'M_timber_node1node2_t2'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node3_3', 'variables': ['M_timber_node1node3_t3', 'U_node1node3_t3', 'C_timber_node1node3_t2', 'M_timber_node1node3_t2'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node4_3', 'variables': ['M_timber_node1node4_t3', 'U_node1node4_t3', 'C_timber_node1node4_t2', 'M_timber_node1node4_t2'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node2node3_3', 'variables': ['M_timber_node2node3_t3', 'U_node2node3_t3', 'C_timber_node2node3_t2', 'M_timber_node2node3_t2'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node2node4_3', 'variables': ['M_timber_node2node4_t3', 'U_node2node4_t3', 'C_timber_node2node4_t2', 'M_timber_node2node4_t2'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node3node4_3', 'variables': ['M_timber_node3node4_t3', 'U_node3node4_t3', 'C_timber_node3node4_t2', 'M_timber_node3node4_t2'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node2_4', 'variables': ['M_timber_node1node2_t4', 'U_node1node2_t4', 'C_timber_node1node2_t3', 'M_timber_node1node2_t3'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node3_4', 'variables': ['M_timber_node1node3_t4', 'U_node1node3_t4', 'C_timber_node1node3_t3', 'M_timber_node1node3_t3'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node4_4', 'variables': ['M_timber_node1node4_t4', 'U_node1node4_t4', 'C_timber_node1node4_t3', 'M_timber_node1node4_t3'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node2node3_4', 'variables': ['M_timber_node2node3_t4', 'U_node2node3_t4', 'C_timber_node2node3_t3', 'M_timber_node2node3_t3'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node2node4_4', 'variables': ['M_timber_node2node4_t4', 'U_node2node4_t4', 'C_timber_node2node4_t3', 'M_timber_node2node4_t3'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node3node4_4', 'variables': ['M_timber_node3node4_t4', 'U_node3node4_t4', 'C_timber_node3node4_t3', 'M_timber_node3node4_t3'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node2_5', 'variables': ['M_timber_node1node2_t5', 'U_node1node2_t5', 'C_timber_node1node2_t4', 'M_timber_node1node2_t4'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node3_5', 'variables': ['M_timber_node1node3_t5', 'U_node1node3_t5', 'C_timber_node1node3_t4', 'M_timber_node1node3_t4'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node1node4_5', 'variables': ['M_timber_node1node4_t5', 'U_node1node4_t5', 'C_timber_node1node4_t4', 'M_timber_node1node4_t4'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node2node3_5', 'variables': ['M_timber_node2node3_t5', 'U_node2node3_t5', 'C_timber_node2node3_t4', 'M_timber_node2node3_t4'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node2node4_5', 'variables': ['M_timber_node2node4_t5', 'U_node2node4_t5', 'C_timber_node2node4_t4', 'M_timber_node2node4_t4'], 'coefficients': [1, 1, -1, -1]}
+{'constraint_name': 'Constraint_maintain_upgrade_timber_node3node4_5', 'variables': ['M_timber_node3node4_t5', 'U_node3node4_t5', 'C_timber_node3node4_t4', 'M_timber_node3node4_t4'], 'coefficients': [1, 1, -1, -1]}
