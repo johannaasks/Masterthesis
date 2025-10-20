@@ -1,700 +1,420 @@
-C_timber_node1node5_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node1node5_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node5_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node5_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node5_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node5_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node5_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node1node5_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node5_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node5_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node5_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node5_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node3_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node1node3_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node3_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node3_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node3_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node3_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node3_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node1node3_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node3_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node3_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node3_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node3_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node2_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node1node2_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node2_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node2_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node2_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node2_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node2_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node1node2_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node2_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node2_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node2_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node2_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node1node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node1node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node1node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node1node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node1node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node1node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node3_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node2node3_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node3_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node3_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node3_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node3_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node3_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node2node3_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node3_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node3_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node3_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node3_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node2node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node2node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node2node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node2node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node2node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node2node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node4_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node3node4_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node4_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node4_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node4_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node4_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node4_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node3node4_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node4_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node4_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node4_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node4_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node3node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node3node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node3node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node3node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node3node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node3node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node4node5_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node4node5_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node4node5_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node4node5_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node4node5_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node4node5_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node4node5_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node4node5_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node4node5_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node4node5_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node4node5_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node4node5_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node4node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node4node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node4node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node4node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node4node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node4node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node4node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node4node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node4node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node4node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node4node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node4node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node5node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_timber_node5node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node5node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node5node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node5node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_timber_node5node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node5node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-C_wide_node5node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node5node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node5node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node5node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-C_wide_node5node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node5_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node1node5_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node5_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node5_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node5_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node5_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node5_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node1node5_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node5_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node5_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node5_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node5_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node3_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node1node3_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node3_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node3_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node3_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node3_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node3_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node1node3_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node3_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node3_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node3_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node3_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node2_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node1node2_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node2_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node2_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node2_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node2_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node2_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node1node2_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node2_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node2_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node2_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node2_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node1node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node1node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node1node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node1node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node1node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node1node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node3_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node2node3_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node3_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node3_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node3_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node3_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node3_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node2node3_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node3_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node3_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node3_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node3_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node2node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node2node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node2node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node2node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node2node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node2node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node4_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node3node4_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node4_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node4_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node4_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node4_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node4_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node3node4_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node4_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node4_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node4_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node4_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node3node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node3node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node3node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node3node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node3node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node3node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node4node5_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node4node5_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node4node5_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node4node5_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node4node5_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node4node5_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node4node5_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node4node5_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node4node5_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node4node5_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node4node5_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node4node5_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node4node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node4node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node4node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node4node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node4node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node4node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node4node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node4node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node4node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node4node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node4node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node4node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node5node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_timber_node5node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node5node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node5node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node5node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_timber_node5node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node5node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-M_wide_node5node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node5node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node5node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node5node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-M_wide_node5node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node5_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node1node5_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node5_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node5_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node5_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node5_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node3_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node1node3_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node3_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node3_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node3_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node3_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node2_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node1node2_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node2_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node2_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node2_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node2_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node1node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node1node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node1node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node3_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node2node3_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node3_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node3_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node3_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node3_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node2node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node2node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node2node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node4_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node3node4_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node4_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node4_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node4_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node4_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node6_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node3node6_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node6_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node6_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node6_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node6_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node3node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node3node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node4node5_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node4node5_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node4node5_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node4node5_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node4node5_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node4node5_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node4node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node4node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node4node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node4node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node4node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node4node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node5node7_t0: lb=0.0, ub=0.0, type=B, cost=N/A
-U_node5node7_t1: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node5node7_t2: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node5node7_t3: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node5node7_t4: lb=0.0, ub=1.0, type=B, cost=N/A
-U_node5node7_t5: lb=0.0, ub=1.0, type=B, cost=N/A
-flow_timber_node1node5_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node5_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node5_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node5_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node5_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node5_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node5_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node5_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node5_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node5_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node3_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node3_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node3_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node3_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node3_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node3_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node3_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node3_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node3_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node3_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node2_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node2_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node2_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node2_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node2_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node2_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node2_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node2_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node2_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node2_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node6_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node6_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node6_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node6_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node6_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node6_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node6_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node6_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node6_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node6_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node7_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node7_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node7_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node7_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node1node7_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node7_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node7_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node7_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node7_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node1node7_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node1_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node1_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node1_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node1_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node1_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node1_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node1_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node1_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node1_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node1_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node4_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node4_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node4_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node4_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node4_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node4_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node4_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node4_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node4_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node4_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node7_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node7_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node7_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node7_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node5node7_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node7_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node7_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node7_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node7_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node5node7_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node1_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node1_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node1_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node1_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node1_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node1_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node1_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node1_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node1_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node1_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node2_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node2_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node2_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node2_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node2_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node2_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node2_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node2_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node2_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node2_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node4_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node4_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node4_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node4_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node4_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node4_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node4_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node4_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node4_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node4_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node6_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node6_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node6_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node6_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node6_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node6_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node6_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node6_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node6_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node6_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node7_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node7_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node7_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node7_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node3node7_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node7_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node7_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node7_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node7_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node3node7_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node1_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node1_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node1_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node1_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node1_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node1_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node1_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node1_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node1_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node1_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node3_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node3_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node3_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node3_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node3_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node3_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node3_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node3_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node3_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node3_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node6_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node6_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node6_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node6_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node6_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node6_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node6_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node6_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node6_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node6_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node7_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node7_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node7_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node7_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node2node7_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node7_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node7_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node7_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node7_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node2node7_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node1_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node1_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node1_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node1_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node1_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node1_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node1_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node1_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node1_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node1_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node2_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node2_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node2_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node2_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node2_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node2_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node2_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node2_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node2_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node2_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node3_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node3_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node3_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node3_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node6node3_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node3_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node3_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node3_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node3_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node6node3_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node1_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node1_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node1_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node1_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node1_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node1_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node1_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node1_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node1_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node1_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node2_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node2_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node2_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node2_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node2_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node2_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node2_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node2_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node2_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node2_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node3_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node3_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node3_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node3_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node3_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node3_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node3_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node3_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node3_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node3_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node4_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node4_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node4_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node4_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node4_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node4_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node4_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node4_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node4_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node4_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node5_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node5_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node5_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node5_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node7node5_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node5_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node5_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node5_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node5_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node7node5_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node3_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node3_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node3_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node3_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node3_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node3_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node3_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node3_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node3_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node3_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node5_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node5_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node5_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node5_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node5_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node5_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node5_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node5_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node5_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node5_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node7_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node7_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node7_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node7_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_timber_node4node7_t5: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node7_t1: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node7_t2: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node7_t3: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node7_t4: lb=0.0, ub=9.0, type=I, cost=N/A
-flow_wide_node4node7_t5: lb=0.0, ub=9.0, type=I, cost=N/A
+C_node1node5_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node1node5, period=0, cost=8076.0
+C_node1node5_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node5, period=1, cost=6799.78
+C_node1node5_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node5, period=2, cost=4820.49
+C_node1node5_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node5, period=3, cost=3417.34
+C_node1node5_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node5, period=4, cost=2422.61
+C_node1node5_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node5, period=5, cost=1717.44
+C_node1node5_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node1node5, period=0, cost=12115.0
+C_node1node5_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node5, period=1, cost=10200.5
+C_node1node5_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node5, period=2, cost=7231.33
+C_node1node5_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node5, period=3, cost=5126.43
+C_node1node5_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node5, period=4, cost=3634.22
+C_node1node5_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node5, period=5, cost=2576.37
+C_node1node3_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node1node3, period=0, cost=7031.0
+C_node1node3_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node3, period=1, cost=5919.91
+C_node1node3_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node3, period=2, cost=4196.74
+C_node1node3_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node3, period=3, cost=2975.15
+C_node1node3_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node3, period=4, cost=2109.14
+C_node1node3_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node3, period=5, cost=1495.21
+C_node1node3_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node1node3, period=0, cost=10545.0
+C_node1node3_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node3, period=1, cost=8878.61
+C_node1node3_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node3, period=2, cost=6294.21
+C_node1node3_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node3, period=3, cost=4462.09
+C_node1node3_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node3, period=4, cost=3163.26
+C_node1node3_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node3, period=5, cost=2242.49
+C_node1node2_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node1node2, period=0, cost=1253.0
+C_node1node2_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node2, period=1, cost=1054.99
+C_node1node2_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node2, period=2, cost=747.9
+C_node1node2_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node2, period=3, cost=530.2
+C_node1node2_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node2, period=4, cost=375.87
+C_node1node2_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node2, period=5, cost=266.46
+C_node1node2_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node1node2, period=0, cost=1880.0
+C_node1node2_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node2, period=1, cost=1582.91
+C_node1node2_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node2, period=2, cost=1122.15
+C_node1node2_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node2, period=3, cost=795.52
+C_node1node2_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node2, period=4, cost=563.96
+C_node1node2_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node2, period=5, cost=399.8
+C_node1node6_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node1node6, period=0, cost=0.0
+C_node1node6_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node6, period=1, cost=0.0
+C_node1node6_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node6, period=2, cost=0.0
+C_node1node6_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node6, period=3, cost=0.0
+C_node1node6_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node6, period=4, cost=0.0
+C_node1node6_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node6, period=5, cost=0.0
+C_node1node6_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node1node6, period=0, cost=0.0
+C_node1node6_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node6, period=1, cost=0.0
+C_node1node6_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node6, period=2, cost=0.0
+C_node1node6_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node6, period=3, cost=0.0
+C_node1node6_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node6, period=4, cost=0.0
+C_node1node6_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node6, period=5, cost=0.0
+C_node1node7_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node1node7, period=0, cost=0.0
+C_node1node7_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node7, period=1, cost=0.0
+C_node1node7_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node7, period=2, cost=0.0
+C_node1node7_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node7, period=3, cost=0.0
+C_node1node7_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node7, period=4, cost=0.0
+C_node1node7_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node1node7, period=5, cost=0.0
+C_node1node7_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node1node7, period=0, cost=0.0
+C_node1node7_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node7, period=1, cost=0.0
+C_node1node7_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node7, period=2, cost=0.0
+C_node1node7_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node7, period=3, cost=0.0
+C_node1node7_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node7, period=4, cost=0.0
+C_node1node7_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node1node7, period=5, cost=0.0
+C_node2node3_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node2node3, period=0, cost=589.0
+C_node2node3_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node3, period=1, cost=495.92
+C_node2node3_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node3, period=2, cost=351.57
+C_node2node3_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node3, period=3, cost=249.23
+C_node2node3_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node3, period=4, cost=176.69
+C_node2node3_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node3, period=5, cost=125.26
+C_node2node3_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node2node3, period=0, cost=883.0
+C_node2node3_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node3, period=1, cost=743.46
+C_node2node3_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node3, period=2, cost=527.05
+C_node2node3_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node3, period=3, cost=373.64
+C_node2node3_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node3, period=4, cost=264.88
+C_node2node3_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node3, period=5, cost=187.78
+C_node2node6_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node2node6, period=0, cost=0.0
+C_node2node6_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node6, period=1, cost=0.0
+C_node2node6_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node6, period=2, cost=0.0
+C_node2node6_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node6, period=3, cost=0.0
+C_node2node6_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node6, period=4, cost=0.0
+C_node2node6_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node6, period=5, cost=0.0
+C_node2node6_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node2node6, period=0, cost=0.0
+C_node2node6_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node6, period=1, cost=0.0
+C_node2node6_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node6, period=2, cost=0.0
+C_node2node6_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node6, period=3, cost=0.0
+C_node2node6_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node6, period=4, cost=0.0
+C_node2node6_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node6, period=5, cost=0.0
+C_node2node7_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node2node7, period=0, cost=0.0
+C_node2node7_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node7, period=1, cost=0.0
+C_node2node7_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node7, period=2, cost=0.0
+C_node2node7_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node7, period=3, cost=0.0
+C_node2node7_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node7, period=4, cost=0.0
+C_node2node7_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node2node7, period=5, cost=0.0
+C_node2node7_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node2node7, period=0, cost=0.0
+C_node2node7_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node7, period=1, cost=0.0
+C_node2node7_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node7, period=2, cost=0.0
+C_node2node7_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node7, period=3, cost=0.0
+C_node2node7_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node7, period=4, cost=0.0
+C_node2node7_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node2node7, period=5, cost=0.0
+C_node3node4_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node3node4, period=0, cost=1779.0
+C_node3node4_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node4, period=1, cost=1497.87
+C_node3node4_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node4, period=2, cost=1061.87
+C_node3node4_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node4, period=3, cost=752.78
+C_node3node4_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node4, period=4, cost=533.66
+C_node3node4_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node4, period=5, cost=378.32
+C_node3node4_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node3node4, period=0, cost=2667.0
+C_node3node4_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node4, period=1, cost=2245.54
+C_node3node4_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node4, period=2, cost=1591.91
+C_node3node4_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node4, period=3, cost=1128.53
+C_node3node4_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node4, period=4, cost=800.04
+C_node3node4_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node4, period=5, cost=567.16
+C_node3node6_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node3node6, period=0, cost=0.0
+C_node3node6_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node6, period=1, cost=0.0
+C_node3node6_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node6, period=2, cost=0.0
+C_node3node6_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node6, period=3, cost=0.0
+C_node3node6_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node6, period=4, cost=0.0
+C_node3node6_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node6, period=5, cost=0.0
+C_node3node6_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node3node6, period=0, cost=0.0
+C_node3node6_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node6, period=1, cost=0.0
+C_node3node6_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node6, period=2, cost=0.0
+C_node3node6_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node6, period=3, cost=0.0
+C_node3node6_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node6, period=4, cost=0.0
+C_node3node6_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node6, period=5, cost=0.0
+C_node3node7_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node3node7, period=0, cost=0.0
+C_node3node7_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node7, period=1, cost=0.0
+C_node3node7_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node7, period=2, cost=0.0
+C_node3node7_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node7, period=3, cost=0.0
+C_node3node7_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node7, period=4, cost=0.0
+C_node3node7_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node3node7, period=5, cost=0.0
+C_node3node7_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node3node7, period=0, cost=0.0
+C_node3node7_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node7, period=1, cost=0.0
+C_node3node7_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node7, period=2, cost=0.0
+C_node3node7_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node7, period=3, cost=0.0
+C_node3node7_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node7, period=4, cost=0.0
+C_node3node7_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node3node7, period=5, cost=0.0
+C_node4node5_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node4node5, period=0, cost=611.0
+C_node4node5_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node4node5, period=1, cost=514.45
+C_node4node5_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node4node5, period=2, cost=364.7
+C_node4node5_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node4node5, period=3, cost=258.54
+C_node4node5_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node4node5, period=4, cost=183.29
+C_node4node5_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node4node5, period=5, cost=129.93
+C_node4node5_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node4node5, period=0, cost=916.0
+C_node4node5_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node4node5, period=1, cost=771.25
+C_node4node5_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node4node5, period=2, cost=546.75
+C_node4node5_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node4node5, period=3, cost=387.6
+C_node4node5_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node4node5, period=4, cost=274.78
+C_node4node5_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node4node5, period=5, cost=194.8
+C_node4node7_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node4node7, period=0, cost=0.0
+C_node4node7_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node4node7, period=1, cost=0.0
+C_node4node7_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node4node7, period=2, cost=0.0
+C_node4node7_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node4node7, period=3, cost=0.0
+C_node4node7_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node4node7, period=4, cost=0.0
+C_node4node7_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node4node7, period=5, cost=0.0
+C_node4node7_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node4node7, period=0, cost=0.0
+C_node4node7_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node4node7, period=1, cost=0.0
+C_node4node7_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node4node7, period=2, cost=0.0
+C_node4node7_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node4node7, period=3, cost=0.0
+C_node4node7_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node4node7, period=4, cost=0.0
+C_node4node7_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node4node7, period=5, cost=0.0
+C_node5node7_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=timber, edge=node5node7, period=0, cost=0.0
+C_node5node7_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node5node7, period=1, cost=0.0
+C_node5node7_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node5node7, period=2, cost=0.0
+C_node5node7_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node5node7, period=3, cost=0.0
+C_node5node7_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node5node7, period=4, cost=0.0
+C_node5node7_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=timber, edge=node5node7, period=5, cost=0.0
+C_node5node7_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=C, road_type=wide, edge=node5node7, period=0, cost=0.0
+C_node5node7_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node5node7, period=1, cost=0.0
+C_node5node7_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node5node7, period=2, cost=0.0
+C_node5node7_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node5node7, period=3, cost=0.0
+C_node5node7_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node5node7, period=4, cost=0.0
+C_node5node7_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=C, road_type=wide, edge=node5node7, period=5, cost=0.0
+M_node1node5_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node1node5, period=0, cost=2884.0
+M_node1node5_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node5, period=1, cost=2428.25
+M_node1node5_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node5, period=2, cost=1721.43
+M_node1node5_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node5, period=3, cost=1220.36
+M_node1node5_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node5, period=4, cost=865.13
+M_node1node5_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node5, period=5, cost=613.31
+M_node1node5_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node1node5, period=0, cost=2884.0
+M_node1node5_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node5, period=1, cost=2428.25
+M_node1node5_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node5, period=2, cost=1721.43
+M_node1node5_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node5, period=3, cost=1220.36
+M_node1node5_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node5, period=4, cost=865.13
+M_node1node5_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node5, period=5, cost=613.31
+M_node1node3_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node1node3, period=0, cost=2509.0
+M_node1node3_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node3, period=1, cost=2112.51
+M_node1node3_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node3, period=2, cost=1497.6
+M_node1node3_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node3, period=3, cost=1061.68
+M_node1node3_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node3, period=4, cost=752.64
+M_node1node3_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node3, period=5, cost=533.56
+M_node1node3_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node1node3, period=0, cost=2509.0
+M_node1node3_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node3, period=1, cost=2112.51
+M_node1node3_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node3, period=2, cost=1497.6
+M_node1node3_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node3, period=3, cost=1061.68
+M_node1node3_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node3, period=4, cost=752.64
+M_node1node3_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node3, period=5, cost=533.56
+M_node1node2_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node1node2, period=0, cost=448.0
+M_node1node2_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node2, period=1, cost=377.2
+M_node1node2_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node2, period=2, cost=267.41
+M_node1node2_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node2, period=3, cost=189.57
+M_node1node2_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node2, period=4, cost=134.39
+M_node1node2_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node2, period=5, cost=95.27
+M_node1node2_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node1node2, period=0, cost=448.0
+M_node1node2_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node2, period=1, cost=377.2
+M_node1node2_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node2, period=2, cost=267.41
+M_node1node2_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node2, period=3, cost=189.57
+M_node1node2_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node2, period=4, cost=134.39
+M_node1node2_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node2, period=5, cost=95.27
+M_node1node6_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node1node6, period=0, cost=0.0
+M_node1node6_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node6, period=1, cost=0.0
+M_node1node6_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node6, period=2, cost=0.0
+M_node1node6_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node6, period=3, cost=0.0
+M_node1node6_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node6, period=4, cost=0.0
+M_node1node6_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node6, period=5, cost=0.0
+M_node1node6_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node1node6, period=0, cost=0.0
+M_node1node6_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node6, period=1, cost=0.0
+M_node1node6_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node6, period=2, cost=0.0
+M_node1node6_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node6, period=3, cost=0.0
+M_node1node6_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node6, period=4, cost=0.0
+M_node1node6_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node6, period=5, cost=0.0
+M_node1node7_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node1node7, period=0, cost=0.0
+M_node1node7_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node7, period=1, cost=0.0
+M_node1node7_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node7, period=2, cost=0.0
+M_node1node7_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node7, period=3, cost=0.0
+M_node1node7_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node7, period=4, cost=0.0
+M_node1node7_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node1node7, period=5, cost=0.0
+M_node1node7_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node1node7, period=0, cost=0.0
+M_node1node7_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node7, period=1, cost=0.0
+M_node1node7_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node7, period=2, cost=0.0
+M_node1node7_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node7, period=3, cost=0.0
+M_node1node7_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node7, period=4, cost=0.0
+M_node1node7_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node1node7, period=5, cost=0.0
+M_node2node3_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node2node3, period=0, cost=210.0
+M_node2node3_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node3, period=1, cost=176.81
+M_node2node3_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node3, period=2, cost=125.35
+M_node2node3_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node3, period=3, cost=88.86
+M_node2node3_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node3, period=4, cost=63.0
+M_node2node3_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node3, period=5, cost=44.66
+M_node2node3_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node2node3, period=0, cost=210.0
+M_node2node3_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node3, period=1, cost=176.81
+M_node2node3_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node3, period=2, cost=125.35
+M_node2node3_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node3, period=3, cost=88.86
+M_node2node3_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node3, period=4, cost=63.0
+M_node2node3_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node3, period=5, cost=44.66
+M_node2node6_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node2node6, period=0, cost=0.0
+M_node2node6_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node6, period=1, cost=0.0
+M_node2node6_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node6, period=2, cost=0.0
+M_node2node6_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node6, period=3, cost=0.0
+M_node2node6_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node6, period=4, cost=0.0
+M_node2node6_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node6, period=5, cost=0.0
+M_node2node6_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node2node6, period=0, cost=0.0
+M_node2node6_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node6, period=1, cost=0.0
+M_node2node6_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node6, period=2, cost=0.0
+M_node2node6_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node6, period=3, cost=0.0
+M_node2node6_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node6, period=4, cost=0.0
+M_node2node6_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node6, period=5, cost=0.0
+M_node2node7_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node2node7, period=0, cost=0.0
+M_node2node7_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node7, period=1, cost=0.0
+M_node2node7_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node7, period=2, cost=0.0
+M_node2node7_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node7, period=3, cost=0.0
+M_node2node7_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node7, period=4, cost=0.0
+M_node2node7_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node2node7, period=5, cost=0.0
+M_node2node7_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node2node7, period=0, cost=0.0
+M_node2node7_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node7, period=1, cost=0.0
+M_node2node7_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node7, period=2, cost=0.0
+M_node2node7_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node7, period=3, cost=0.0
+M_node2node7_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node7, period=4, cost=0.0
+M_node2node7_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node2node7, period=5, cost=0.0
+M_node3node4_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node3node4, period=0, cost=636.0
+M_node3node4_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node4, period=1, cost=535.49
+M_node3node4_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node4, period=2, cost=379.62
+M_node3node4_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node4, period=3, cost=269.12
+M_node3node4_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node4, period=4, cost=190.79
+M_node3node4_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node4, period=5, cost=135.25
+M_node3node4_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node3node4, period=0, cost=636.0
+M_node3node4_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node4, period=1, cost=535.49
+M_node3node4_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node4, period=2, cost=379.62
+M_node3node4_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node4, period=3, cost=269.12
+M_node3node4_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node4, period=4, cost=190.79
+M_node3node4_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node4, period=5, cost=135.25
+M_node3node6_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node3node6, period=0, cost=0.0
+M_node3node6_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node6, period=1, cost=0.0
+M_node3node6_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node6, period=2, cost=0.0
+M_node3node6_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node6, period=3, cost=0.0
+M_node3node6_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node6, period=4, cost=0.0
+M_node3node6_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node6, period=5, cost=0.0
+M_node3node6_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node3node6, period=0, cost=0.0
+M_node3node6_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node6, period=1, cost=0.0
+M_node3node6_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node6, period=2, cost=0.0
+M_node3node6_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node6, period=3, cost=0.0
+M_node3node6_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node6, period=4, cost=0.0
+M_node3node6_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node6, period=5, cost=0.0
+M_node3node7_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node3node7, period=0, cost=0.0
+M_node3node7_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node7, period=1, cost=0.0
+M_node3node7_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node7, period=2, cost=0.0
+M_node3node7_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node7, period=3, cost=0.0
+M_node3node7_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node7, period=4, cost=0.0
+M_node3node7_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node3node7, period=5, cost=0.0
+M_node3node7_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node3node7, period=0, cost=0.0
+M_node3node7_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node7, period=1, cost=0.0
+M_node3node7_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node7, period=2, cost=0.0
+M_node3node7_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node7, period=3, cost=0.0
+M_node3node7_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node7, period=4, cost=0.0
+M_node3node7_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node3node7, period=5, cost=0.0
+M_node4node5_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node4node5, period=0, cost=218.0
+M_node4node5_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node4node5, period=1, cost=183.55
+M_node4node5_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node4node5, period=2, cost=130.12
+M_node4node5_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node4node5, period=3, cost=92.25
+M_node4node5_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node4node5, period=4, cost=65.39
+M_node4node5_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node4node5, period=5, cost=46.36
+M_node4node5_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node4node5, period=0, cost=218.0
+M_node4node5_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node4node5, period=1, cost=183.55
+M_node4node5_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node4node5, period=2, cost=130.12
+M_node4node5_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node4node5, period=3, cost=92.25
+M_node4node5_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node4node5, period=4, cost=65.39
+M_node4node5_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node4node5, period=5, cost=46.36
+M_node4node7_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node4node7, period=0, cost=0.0
+M_node4node7_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node4node7, period=1, cost=0.0
+M_node4node7_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node4node7, period=2, cost=0.0
+M_node4node7_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node4node7, period=3, cost=0.0
+M_node4node7_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node4node7, period=4, cost=0.0
+M_node4node7_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node4node7, period=5, cost=0.0
+M_node4node7_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node4node7, period=0, cost=0.0
+M_node4node7_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node4node7, period=1, cost=0.0
+M_node4node7_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node4node7, period=2, cost=0.0
+M_node4node7_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node4node7, period=3, cost=0.0
+M_node4node7_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node4node7, period=4, cost=0.0
+M_node4node7_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node4node7, period=5, cost=0.0
+M_node5node7_timber_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=timber, edge=node5node7, period=0, cost=0.0
+M_node5node7_timber_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node5node7, period=1, cost=0.0
+M_node5node7_timber_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node5node7, period=2, cost=0.0
+M_node5node7_timber_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node5node7, period=3, cost=0.0
+M_node5node7_timber_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node5node7, period=4, cost=0.0
+M_node5node7_timber_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=timber, edge=node5node7, period=5, cost=0.0
+M_node5node7_wide_t0: lb=0.0, ub=0.0, type=B, var_type_letter=M, road_type=wide, edge=node5node7, period=0, cost=0.0
+M_node5node7_wide_t1: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node5node7, period=1, cost=0.0
+M_node5node7_wide_t2: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node5node7, period=2, cost=0.0
+M_node5node7_wide_t3: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node5node7, period=3, cost=0.0
+M_node5node7_wide_t4: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node5node7, period=4, cost=0.0
+M_node5node7_wide_t5: lb=0.0, ub=1.0, type=B, var_type_letter=M, road_type=wide, edge=node5node7, period=5, cost=0.0
+U_node1node5_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node1node5, period=0, cost=6059.0
+U_node1node5_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node5, period=1, cost=5101.52
+U_node1node5_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node5, period=2, cost=3616.56
+U_node1node5_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node5, period=3, cost=2563.85
+U_node1node5_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node5, period=4, cost=1817.56
+U_node1node5_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node5, period=5, cost=1288.5
+U_node1node3_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node1node3, period=0, cost=5271.0
+U_node1node3_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node3, period=1, cost=4438.04
+U_node1node3_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node3, period=2, cost=3146.21
+U_node1node3_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node3, period=3, cost=2230.41
+U_node1node3_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node3, period=4, cost=1581.18
+U_node1node3_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node3, period=5, cost=1120.93
+U_node1node2_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node1node2, period=0, cost=940.0
+U_node1node2_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node2, period=1, cost=791.45
+U_node1node2_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node2, period=2, cost=561.08
+U_node1node2_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node2, period=3, cost=397.76
+U_node1node2_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node2, period=4, cost=281.98
+U_node1node2_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node2, period=5, cost=199.9
+U_node1node6_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node1node6, period=0, cost=0.0
+U_node1node6_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node6, period=1, cost=0.0
+U_node1node6_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node6, period=2, cost=0.0
+U_node1node6_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node6, period=3, cost=0.0
+U_node1node6_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node6, period=4, cost=0.0
+U_node1node6_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node6, period=5, cost=0.0
+U_node1node7_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node1node7, period=0, cost=0.0
+U_node1node7_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node7, period=1, cost=0.0
+U_node1node7_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node7, period=2, cost=0.0
+U_node1node7_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node7, period=3, cost=0.0
+U_node1node7_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node7, period=4, cost=0.0
+U_node1node7_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node1node7, period=5, cost=0.0
+U_node2node3_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node2node3, period=0, cost=441.0
+U_node2node3_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node3, period=1, cost=371.31
+U_node2node3_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node3, period=2, cost=263.23
+U_node2node3_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node3, period=3, cost=186.61
+U_node2node3_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node3, period=4, cost=132.29
+U_node2node3_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node3, period=5, cost=93.78
+U_node2node6_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node2node6, period=0, cost=0.0
+U_node2node6_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node6, period=1, cost=0.0
+U_node2node6_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node6, period=2, cost=0.0
+U_node2node6_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node6, period=3, cost=0.0
+U_node2node6_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node6, period=4, cost=0.0
+U_node2node6_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node6, period=5, cost=0.0
+U_node2node7_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node2node7, period=0, cost=0.0
+U_node2node7_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node7, period=1, cost=0.0
+U_node2node7_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node7, period=2, cost=0.0
+U_node2node7_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node7, period=3, cost=0.0
+U_node2node7_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node7, period=4, cost=0.0
+U_node2node7_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node2node7, period=5, cost=0.0
+U_node3node4_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node3node4, period=0, cost=1334.0
+U_node3node4_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node4, period=1, cost=1123.19
+U_node3node4_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node4, period=2, cost=796.25
+U_node3node4_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node4, period=3, cost=564.48
+U_node3node4_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node4, period=4, cost=400.17
+U_node3node4_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node4, period=5, cost=283.69
+U_node3node6_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node3node6, period=0, cost=0.0
+U_node3node6_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node6, period=1, cost=0.0
+U_node3node6_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node6, period=2, cost=0.0
+U_node3node6_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node6, period=3, cost=0.0
+U_node3node6_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node6, period=4, cost=0.0
+U_node3node6_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node6, period=5, cost=0.0
+U_node3node7_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node3node7, period=0, cost=0.0
+U_node3node7_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node7, period=1, cost=0.0
+U_node3node7_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node7, period=2, cost=0.0
+U_node3node7_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node7, period=3, cost=0.0
+U_node3node7_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node7, period=4, cost=0.0
+U_node3node7_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node3node7, period=5, cost=0.0
+U_node4node5_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node4node5, period=0, cost=458.0
+U_node4node5_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node4node5, period=1, cost=385.62
+U_node4node5_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node4node5, period=2, cost=273.38
+U_node4node5_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node4node5, period=3, cost=193.8
+U_node4node5_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node4node5, period=4, cost=137.39
+U_node4node5_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node4node5, period=5, cost=97.4
+U_node4node7_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node4node7, period=0, cost=0.0
+U_node4node7_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node4node7, period=1, cost=0.0
+U_node4node7_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node4node7, period=2, cost=0.0
+U_node4node7_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node4node7, period=3, cost=0.0
+U_node4node7_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node4node7, period=4, cost=0.0
+U_node4node7_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node4node7, period=5, cost=0.0
+U_node5node7_t0: lb=0.0, ub=0.0, type=B, var_type_letter=U, road_type=None, edge=node5node7, period=0, cost=0.0
+U_node5node7_t1: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node5node7, period=1, cost=0.0
+U_node5node7_t2: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node5node7, period=2, cost=0.0
+U_node5node7_t3: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node5node7, period=3, cost=0.0
+U_node5node7_t4: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node5node7, period=4, cost=0.0
+U_node5node7_t5: lb=0.0, ub=1.0, type=B, var_type_letter=U, road_type=None, edge=node5node7, period=5, cost=0.0

@@ -1,5 +1,6 @@
-Objective value (UB): 0.0
-Best bound (LB): 0.0
+Objective value (UB): 2279.6400000000003
+Best bound (LB): 2279.6400000000003
 Relative MIP gap: 0.0
 Total variables: 1600
-Non-zero variables: 497
+Non-zero variables: 85
+Solving Time: 0.14

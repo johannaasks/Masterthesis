@@ -1,0 +1,20 @@
+{
+    "component_name": "comp_9",
+    "harvesting_schedule": "stake",
+    "UB": 3114.39,
+    "LB": 3114.39,
+    "MIP_gap": 0.0,
+    "solver_runtime_seconds": 0.48,
+    "total_variables": 34550,
+    "nonzero_variables": 527,
+    "solver_parameters": {
+        "timelimit_seconds": 600.0,
+        "mipgap": 0.0001
+    },
+    "input_files": {
+        "nodes_file": "1_Preprocessed_Data\\4_Road_Network_Graphs\\comp_9\\nodes.csv",
+        "arcs_file": "1_Preprocessed_Data\\4_Road_Network_Graphs\\comp_9\\arcs_with_attributes.csv",
+        "access_needs_file": "1_Preprocessed_Data\\2_Stands_Access_Requirements\\stake_stands_access_needs.csv",
+        "harvesting_schedule_file": "1_Preprocessed_Data\\2_Stands_Access_Requirements\\stake_stands_access_needs.csv"
+    }
+}

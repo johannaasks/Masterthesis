@@ -1,5 +1,0 @@
-Objective value (UB): None
-Best bound (LB): 1e+75
-Relative MIP gap: None
-Total variables: 300
-No feasible solution found.

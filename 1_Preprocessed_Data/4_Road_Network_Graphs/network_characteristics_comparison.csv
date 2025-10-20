@@ -1,0 +1,6 @@
+Prefix,Total_NumNodes,Total_NumEdges,Total_SourceNodes,Total_ExitNodes,Total_EdgeLength,Total_Costs
+0,25997,26953,0,0,1173.67,0.0
+1withexit,27136,28092,0,1960,1173.67,0.0
+2withcosts,27136,28092,0,1960,1173.67,4978151.0
+3aftermerge,3684,4640,0,1960,1173.67,4978151.0
+4withsources,4609,11921,925,1960,1173.67,4978151.0

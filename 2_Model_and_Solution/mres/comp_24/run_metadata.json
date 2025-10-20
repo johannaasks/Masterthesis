@@ -1,0 +1,20 @@
+{
+    "component_name": "comp_24",
+    "harvesting_schedule": "mres",
+    "UB": 8979.769999999999,
+    "LB": 8978.985323501756,
+    "MIP_gap": 8.738269446125292e-05,
+    "solver_runtime_seconds": 7.47,
+    "total_variables": 7050,
+    "nonzero_variables": 245,
+    "solver_parameters": {
+        "timelimit_seconds": 600.0,
+        "mipgap": 0.0001
+    },
+    "input_files": {
+        "nodes_file": "1_Preprocessed_Data\\4_Road_Network_Graphs\\comp_24\\nodes.csv",
+        "arcs_file": "1_Preprocessed_Data\\4_Road_Network_Graphs\\comp_24\\arcs_with_attributes.csv",
+        "access_needs_file": "1_Preprocessed_Data\\2_Stands_Access_Requirements\\mres_stands_access_needs.csv",
+        "harvesting_schedule_file": "1_Preprocessed_Data\\2_Stands_Access_Requirements\\mres_stands_access_needs.csv"
+    }
+}
