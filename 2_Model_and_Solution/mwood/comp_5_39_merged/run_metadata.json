@@ -1,20 +1,19 @@
 {
     "component_name": "comp_5_39_merged",
     "harvesting_schedule": "mwood",
-    "UB": 127346.35999999999,
-    "LB": 66931.91775509263,
-    "MIP_gap": 0.47441043658340387,
-    "solver_runtime_seconds": 600.17,
+    "UB": 123393.01,
+    "LB": 79827.0439815409,
+    "MIP_gap": 0.3530667257282974,
+    "solver_runtime_seconds": 14402.66,
     "total_variables": 72250,
-    "nonzero_variables": 3022,
+    "nonzero_variables": 3038,
     "solver_parameters": {
-        "timelimit_seconds": 600.0,
+        "timelimit_seconds": 14400.0,
         "mipgap": 0.0001
     },
     "input_files": {
-        "nodes_file": "1_Preprocessed_Data\\4_Road_Network_Graphs\\comp_5_39_merged\\nodes.csv",
-        "arcs_file": "1_Preprocessed_Data\\4_Road_Network_Graphs\\comp_5_39_merged\\arcs_with_attributes.csv",
-        "access_needs_file": "1_Preprocessed_Data\\2_Stands_Access_Requirements\\mwood_stands_access_needs.csv",
-        "harvesting_schedule_file": "1_Preprocessed_Data\\2_Stands_Access_Requirements\\mwood_stands_access_needs.csv"
+        "nodes_file": "1_Preprocessed_Data/4_Road_Network_Graphs\\comp_5_39_merged\\nodes.csv",
+        "arcs_file": "1_Preprocessed_Data/4_Road_Network_Graphs\\comp_5_39_merged\\arcs_with_attributes.csv",
+        "access_needs_file": "1_Preprocessed_Data\\2_Stands_Access_Requirements\\mwood_stands_access_needs.csv"
     }
 }

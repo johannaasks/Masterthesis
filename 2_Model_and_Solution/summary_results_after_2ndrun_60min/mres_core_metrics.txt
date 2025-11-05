@@ -1,0 +1,8 @@
+Harvest Schedule: mres
+Total Objective Value: 379552.55
+Total Lower Bound: 318949.34
+Aggregate MIP Gap: 0.1597
+Mean Objective Value: 11163.31
+Median Objective Value: 2836.93
+Total Runtime (sec): 10101.75
+Mean Runtime (sec): 297.11

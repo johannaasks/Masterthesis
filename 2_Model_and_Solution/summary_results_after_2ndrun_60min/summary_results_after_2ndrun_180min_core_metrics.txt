@@ -1,0 +1,8 @@
+Harvest Schedule: summary_results_after_2ndrun_180min
+Total Objective Value: 395777.45
+Total Lower Bound: 342380.22
+Aggregate MIP Gap: 0.1349
+Mean Objective Value: 11640.51
+Median Objective Value: 3204.79
+Total Runtime (sec): 13524.4
+Mean Runtime (sec): 397.78

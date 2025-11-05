@@ -1,20 +1,19 @@
 {
     "component_name": "comp_2_44_merged",
     "harvesting_schedule": "mres",
-    "UB": 29140.489999999998,
-    "LB": 28843.979136199974,
-    "MIP_gap": 0.010175218872435667,
-    "solver_runtime_seconds": 600.14,
+    "UB": 29140.49,
+    "LB": 28849.671635462415,
+    "MIP_gap": 0.009979872148257823,
+    "solver_runtime_seconds": 411.51,
     "total_variables": 88000,
     "nonzero_variables": 2214,
     "solver_parameters": {
-        "timelimit_seconds": 600.0,
-        "mipgap": 0.0001
+        "timelimit_seconds": 4200.0,
+        "mipgap": 0.01
     },
     "input_files": {
-        "nodes_file": "1_Preprocessed_Data\\4_Road_Network_Graphs\\comp_2_44_merged\\nodes.csv",
-        "arcs_file": "1_Preprocessed_Data\\4_Road_Network_Graphs\\comp_2_44_merged\\arcs_with_attributes.csv",
-        "access_needs_file": "1_Preprocessed_Data\\2_Stands_Access_Requirements\\mres_stands_access_needs.csv",
-        "harvesting_schedule_file": "1_Preprocessed_Data\\2_Stands_Access_Requirements\\mres_stands_access_needs.csv"
+        "nodes_file": "1_Preprocessed_Data/4_Road_Network_Graphs\\comp_2_44_merged\\nodes.csv",
+        "arcs_file": "1_Preprocessed_Data/4_Road_Network_Graphs\\comp_2_44_merged\\arcs_with_attributes.csv",
+        "access_needs_file": "1_Preprocessed_Data\\2_Stands_Access_Requirements\\mres_stands_access_needs.csv"
     }
 }

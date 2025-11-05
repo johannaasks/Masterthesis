@@ -1,0 +1,5 @@
+harvesting_schedule,component_name,UB,LB,MIP_gap,solver_runtime_seconds,total_variables,nonzero_variables
+mres,comp_14_15_48_merged,56371.9,51479.00633,0.086796678,3601.42,50950,1524
+mres,comp_20_25_28_33_merged,24385,24382.60937,9.80E-05,1402.29,57650,1211
+mres,comp_5_39_merged,130240.03,75942.49185,0.416903606,3600.49,72250,2759
+mres,comp_16,16040.28,16038.67709,9.99E-05,2488.43,14150,372
