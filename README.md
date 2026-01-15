@@ -40,9 +40,22 @@ The model is applied to the Paiva forest intervention zone in northern Portugal,
 ## 🛠 Technologies Used
 
 - **Python 3** (via VS Code and Jupyter Notebooks)  
-- Libraries: `pandas`, `geopandas`, `networkx`, `matplotlib`, `CPLEX` for linear optimization  
-- Geospatial data processing tools
 
+- **Data Processing & Analysis:**  
+  `pandas`, `numpy`, `ast`, `csv`, `json`, `shutil`, `glob`, `time`, `math`, `re`, `pathlib`  
+
+- **Geospatial & Geometric Libraries:**  
+  `geopandas`, `shapely` (`Point`, `LineString`, `Polygon`, `MultiPoint`, `MultiLineString`, `MultiPolygon`, `GeometryCollection`), `wkt`  
+
+- **Visualization:**  
+  `matplotlib.pyplot`, `matplotlib.patches`, `matplotlib.lines.Line2D`, `mpl_toolkits.axes_grid1.inset_locator.inset_axes`, `matplotlib_scalebar.scalebar.ScaleBar`, `missingno`  
+
+- **Network Analysis & Optimization:**  
+  `networkx`, `cplex`  
+
+- **Utilities & Others:**  
+  `random`, `collections.Counter`, `pickle`  
+  
 ---
 
 ## ⚙️ How to Run
