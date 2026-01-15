@@ -1,8 +1,10 @@
 # Integrating Wildfire Risk in Forest Road Network Planning
 
 **A Linear Optimization Approach to Select a Cost-Minimizing and Fire Response Enhancing Road Network in Timber Forests**  
-Master’s Thesis by Johanna Barbara Tina Rauberger  
-Supervisors: Marta Guerreiro Duarte Mesquita de Oliveira, PhD & Susete Maria Gonçalves Marques, PhD  
+Master’s Thesis by Johanna Rauberger  
+Supervisors:
+- Marta Guerreiro Duarte Mesquita de Oliveira, PhD
+- Susete Maria Gonçalves Marques, PhD  
 Degree: Master of Science in Data Science in Agriculture, Food, Forest and Environment  
 
 ---
@@ -31,14 +33,14 @@ The model is applied to the Paiva forest intervention zone in northern Portugal,
 | `*.ipynb` | Jupyter notebooks containing preprocessing, model creation, optimization, and visualization steps |
 | `LICENSE` | Apache 2.0 license file |
 | `README.md` | This file |
-| `Draft_Masterthesis.pdf` | Thesis draft document |
+| `Draft_Masterthesis_JR_15-01-2026` | Thesis draft document |
 
 ---
 
 ## 🛠 Technologies Used
 
 - **Python 3** (via VS Code and Jupyter Notebooks)  
-- Libraries: `pandas`, `geopandas`, `networkx`, `matplotlib`, `PuLP` / `CPLEX` for linear optimization  
+- Libraries: `pandas`, `geopandas`, `networkx`, `matplotlib`, `CPLEX` for linear optimization  
 - Geospatial data processing tools
 
 ---
