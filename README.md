@@ -73,7 +73,7 @@ Work through the notebooks in sequence:
 - `5_CPLEX_implementation_WORKFLOW.ipynb` – run linear optimization model  
 - `6_Solution_Postprocessing.ipynb` – analyze and visualize results  
 
-View results in the **2_Model_and_Solution** folder or use visualization notebooks.
+View results in the **2_Model_and_Solution** folder.
 
 ## 📊 Results
 
