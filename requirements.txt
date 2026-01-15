@@ -1,0 +1,20 @@
+# Data & Analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Geospatial & Geometry
+geopandas>=0.13.0
+shapely>=2.1.0
+
+# Visualization
+matplotlib>=3.7.0
+missingno>=0.5.2
+matplotlib-scalebar>=0.8.0
+
+# Network & Optimization
+networkx>=3.1
+cplex>=22.1.0
+
+# Optional / Utilities
+# Standard library modules (no install needed):
+# ast, csv, json, shutil, glob, math, re, pickle, random, collections
