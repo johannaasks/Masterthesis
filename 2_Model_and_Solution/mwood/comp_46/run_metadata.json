@@ -5,8 +5,8 @@
     "LB": 321.02,
     "MIP_gap": 0.0,
     "solver_runtime_seconds": 0.06,
-    "total_variables": 4200,
-    "nonzero_variables": 26,
+    "total_variables": 650,
+    "nonzero_variables": 27,
     "solver_parameters": {
         "timelimit_seconds": 600.0,
         "mipgap": 0.0001

@@ -1,14 +1,14 @@
 {
     "component_name": "comp_20_25_28_33_merged",
     "harvesting_schedule": "mwood",
-    "UB": 24567.5,
-    "LB": 24565.722885570533,
-    "MIP_gap": 7.23359898022781e-05,
-    "solver_runtime_seconds": 946.43,
-    "total_variables": 57650,
-    "nonzero_variables": 1315,
+    "UB": 54122.5,
+    "LB": 41448.721792339136,
+    "MIP_gap": 0.23416838112912078,
+    "solver_runtime_seconds": 14401.25,
+    "total_variables": 18650,
+    "nonzero_variables": 1167,
     "solver_parameters": {
-        "timelimit_seconds": 3600.0,
+        "timelimit_seconds": 14400.0,
         "mipgap": 0.0001
     },
     "input_files": {

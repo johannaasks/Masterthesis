@@ -1,12 +1,12 @@
 {
     "component_name": "comp_36_50_merged",
     "harvesting_schedule": "mwood",
-    "UB": 1249.1799999999998,
-    "LB": 1249.1799999999998,
+    "UB": 2489.4199999999996,
+    "LB": 2489.42,
     "MIP_gap": 0.0,
-    "solver_runtime_seconds": 0.18,
-    "total_variables": 9650,
-    "nonzero_variables": 101,
+    "solver_runtime_seconds": 0.09,
+    "total_variables": 1400,
+    "nonzero_variables": 53,
     "solver_parameters": {
         "timelimit_seconds": 600.0,
         "mipgap": 0.0001

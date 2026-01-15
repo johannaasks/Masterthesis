@@ -1,12 +1,12 @@
 {
     "component_name": "comp_36_50_merged",
     "harvesting_schedule": "mres",
-    "UB": 1135.22,
-    "LB": 1135.22,
+    "UB": 2375.4599999999996,
+    "LB": 2375.46,
     "MIP_gap": 0.0,
-    "solver_runtime_seconds": 0.17,
-    "total_variables": 9650,
-    "nonzero_variables": 80,
+    "solver_runtime_seconds": 0.31,
+    "total_variables": 1400,
+    "nonzero_variables": 39,
     "solver_parameters": {
         "timelimit_seconds": 600.0,
         "mipgap": 0.0001

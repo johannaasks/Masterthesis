@@ -1,14 +1,14 @@
 {
     "component_name": "comp_20_25_28_33_merged",
     "harvesting_schedule": "stake",
-    "UB": 25401.89,
-    "LB": 25401.89,
-    "MIP_gap": 0.0,
-    "solver_runtime_seconds": 3551.94,
-    "total_variables": 57650,
-    "nonzero_variables": 1327,
+    "UB": 54230.219999999994,
+    "LB": 40882.824406811334,
+    "MIP_gap": 0.24612468091017584,
+    "solver_runtime_seconds": 14407.79,
+    "total_variables": 18650,
+    "nonzero_variables": 1162,
     "solver_parameters": {
-        "timelimit_seconds": 3600.0,
+        "timelimit_seconds": 14400.0,
         "mipgap": 0.0001
     },
     "input_files": {

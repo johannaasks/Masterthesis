@@ -1,12 +1,12 @@
 {
     "component_name": "comp_8",
     "harvesting_schedule": "stake",
-    "UB": 478.17,
-    "LB": 478.17,
+    "UB": 1387.9899999999998,
+    "LB": 1387.9899999999998,
     "MIP_gap": 0.0,
-    "solver_runtime_seconds": 0.06,
-    "total_variables": 4700,
-    "nonzero_variables": 109,
+    "solver_runtime_seconds": 0.08,
+    "total_variables": 1300,
+    "nonzero_variables": 63,
     "solver_parameters": {
         "timelimit_seconds": 600.0,
         "mipgap": 0.0001

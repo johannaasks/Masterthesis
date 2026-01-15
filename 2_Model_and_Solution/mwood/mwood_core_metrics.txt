@@ -1,8 +1,8 @@
 Harvest Schedule: mwood
-Total Objective Value: 389153.14
-Total Lower Bound: 335929.43
-Aggregate MIP Gap: 0.1368
-Mean Objective Value: 11445.68
-Median Objective Value: 3204.79
-Total Runtime (sec): 10843.47
-Mean Runtime (sec): 318.93
+Total Objective Value: 568570.16
+Total Lower Bound: 377566.3
+Aggregate MIP Gap: 0.3359
+Mean Objective Value: 16722.65
+Median Objective Value: 2964.31
+Total Runtime (sec): 3661.36
+Mean Runtime (sec): 107.69

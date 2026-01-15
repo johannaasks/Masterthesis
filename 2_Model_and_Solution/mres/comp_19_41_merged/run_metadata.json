@@ -2,11 +2,11 @@
     "component_name": "comp_19_41_merged",
     "harvesting_schedule": "mres",
     "UB": 7113.900000000001,
-    "LB": 7113.240052910052,
-    "MIP_gap": 9.276867680853107e-05,
-    "solver_runtime_seconds": 0.92,
-    "total_variables": 4350,
-    "nonzero_variables": 97,
+    "LB": 7113.900000000001,
+    "MIP_gap": 0.0,
+    "solver_runtime_seconds": 1.28,
+    "total_variables": 1500,
+    "nonzero_variables": 98,
     "solver_parameters": {
         "timelimit_seconds": 600.0,
         "mipgap": 0.0001

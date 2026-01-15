@@ -1,12 +1,12 @@
 {
     "component_name": "comp_32",
     "harvesting_schedule": "mres",
-    "UB": 2377.08,
-    "LB": 2377.08,
+    "UB": 123.63000000000001,
+    "LB": 123.63000000000001,
     "MIP_gap": 0.0,
-    "solver_runtime_seconds": 0.4,
-    "total_variables": 13500,
-    "nonzero_variables": 115,
+    "solver_runtime_seconds": 0.22,
+    "total_variables": 2000,
+    "nonzero_variables": 34,
     "solver_parameters": {
         "timelimit_seconds": 600.0,
         "mipgap": 0.0001

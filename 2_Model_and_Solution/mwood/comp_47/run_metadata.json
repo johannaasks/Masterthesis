@@ -4,8 +4,8 @@
     "UB": 2472.6499999999996,
     "LB": 2472.6499999999996,
     "MIP_gap": 0.0,
-    "solver_runtime_seconds": 0.07,
-    "total_variables": 700,
+    "solver_runtime_seconds": 0.09,
+    "total_variables": 450,
     "nonzero_variables": 26,
     "solver_parameters": {
         "timelimit_seconds": 600.0,

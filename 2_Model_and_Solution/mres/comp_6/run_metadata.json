@@ -1,12 +1,12 @@
 {
     "component_name": "comp_6",
     "harvesting_schedule": "mres",
-    "UB": 4176.509999999999,
-    "LB": 4176.51,
+    "UB": 8518.4,
+    "LB": 8518.4,
     "MIP_gap": 0.0,
-    "solver_runtime_seconds": 5.25,
-    "total_variables": 8150,
-    "nonzero_variables": 159,
+    "solver_runtime_seconds": 0.95,
+    "total_variables": 2800,
+    "nonzero_variables": 179,
     "solver_parameters": {
         "timelimit_seconds": 600.0,
         "mipgap": 0.0001

@@ -1,15 +1,15 @@
 {
     "component_name": "comp_2_44_merged",
     "harvesting_schedule": "mres",
-    "UB": 29140.49,
-    "LB": 28849.671635462415,
-    "MIP_gap": 0.009979872148257823,
-    "solver_runtime_seconds": 411.51,
-    "total_variables": 88000,
-    "nonzero_variables": 2214,
+    "UB": 84643.71999999914,
+    "LB": 55438.411487172765,
+    "MIP_gap": 0.34503810221037823,
+    "solver_runtime_seconds": 14405.08,
+    "total_variables": 31750,
+    "nonzero_variables": 2039,
     "solver_parameters": {
-        "timelimit_seconds": 4200.0,
-        "mipgap": 0.01
+        "timelimit_seconds": 14400.0,
+        "mipgap": 0.0001
     },
     "input_files": {
         "nodes_file": "1_Preprocessed_Data/4_Road_Network_Graphs\\comp_2_44_merged\\nodes.csv",

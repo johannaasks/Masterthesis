@@ -1,12 +1,12 @@
 {
     "component_name": "comp_19_41_merged",
     "harvesting_schedule": "stake",
-    "UB": 7630.53,
-    "LB": 7630.530000000001,
-    "MIP_gap": 0.0,
-    "solver_runtime_seconds": 2.35,
-    "total_variables": 4350,
-    "nonzero_variables": 100,
+    "UB": 7630.530000000001,
+    "LB": 7629.9508425925915,
+    "MIP_gap": 7.590002364307283e-05,
+    "solver_runtime_seconds": 2.43,
+    "total_variables": 1500,
+    "nonzero_variables": 99,
     "solver_parameters": {
         "timelimit_seconds": 600.0,
         "mipgap": 0.0001

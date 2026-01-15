@@ -2,21 +2,21 @@ Version identifier: 22.1.1.0 | 2022-11-27 | 9160aff4d
 CPXPARAM_Read_DataCheck                          1
 CPXPARAM_TimeLimit                               600
 Tried aggregator 4 times.
-MIP Presolve eliminated 1830 rows and 2903 columns.
+MIP Presolve eliminated 348 rows and 527 columns.
 MIP Presolve modified 448 coefficients.
-Aggregator did 130 substitutions.
-Reduced MIP has 900 rows, 1317 columns, and 4519 nonzeros.
-Reduced MIP has 777 binaries, 540 generals, 0 SOSs, and 0 indicators.
-Presolve time = 0.02 sec. (10.05 ticks)
-Found incumbent of value 60308.110000 after 0.03 sec. (24.48 ticks)
-Probing fixed 0 vars, tightened 216 bounds.
-Probing time = 0.02 sec. (1.61 ticks)
+Aggregator did 34 substitutions.
+Reduced MIP has 653 rows, 939 columns, and 3253 nonzeros.
+Reduced MIP has 579 binaries, 360 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (5.60 ticks)
+Found incumbent of value 50559.180000 after 0.05 sec. (16.22 ticks)
+Probing fixed 0 vars, tightened 144 bounds.
+Probing time = 0.01 sec. (1.14 ticks)
 Tried aggregator 6 times.
-MIP Presolve eliminated 364 rows and 549 columns.
+MIP Presolve eliminated 117 rows and 171 columns.
 Aggregator did 29 substitutions.
 Reduced MIP has 507 rows, 739 columns, and 2542 nonzeros.
 Reduced MIP has 439 binaries, 300 generals, 0 SOSs, and 0 indicators.
-Presolve time = 0.00 sec. (4.26 ticks)
+Presolve time = 0.02 sec. (4.41 ticks)
 Probing time = 0.00 sec. (0.82 ticks)
 Tried aggregator 4 times.
 Detecting symmetries...
@@ -31,62 +31,68 @@ Clique table members: 736.
 MIP emphasis: balance optimality and feasibility.
 MIP search method: dynamic search.
 Parallel mode: deterministic, using up to 4 threads.
-Root relaxation solution time = 0.00 sec. (2.00 ticks)
+Root relaxation solution time = 0.00 sec. (2.26 ticks)
 
         Nodes                                         Cuts/
    Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
 
-*     0+    0                        29409.9300        0.0000           100.00%
-      0     0     1736.0500    18    29409.9300     1736.0500      182   94.10%
-      0     0     3346.9869   100    29409.9300      Cuts: 42      285   88.62%
-*     0+    0                        14088.2900     3346.9869            76.24%
-      0     0     4324.1510   132    14088.2900      Cuts: 79      365   69.31%
-      0     0     4548.0500   113    14088.2900      Cuts: 55      418   67.72%
-      0     0     4789.4530    99    14088.2900      Cuts: 34      473   66.00%
-      0     0     5042.3307    98    14088.2900      Cuts: 29      520   64.21%
-*     0+    0                        11722.7200     5042.3307            56.99%
+*     0+    0                        28590.8200        0.0000           100.00%
+      0     0     1736.0500    20    28590.8200     1736.0500      242   93.93%
+      0     0     3149.6883    89    28590.8200      Cuts: 44      343   88.98%
+      0     0     4464.0047    86    28590.8200      Cuts: 76      431   84.39%
+*     0+    0                        17043.9800     4464.0047            73.81%
+      0     0     4794.7610    91    17043.9800      Cuts: 34      498   71.87%
+*     0+    0                        15584.7600     4794.7610            69.23%
+      0     0     4972.8035   141    15584.7600      Cuts: 29      594   68.09%
+*     0+    0                        14188.4500     4972.8035            64.95%
+      0     0     5118.0817   135    14188.4500      Cuts: 29      667   63.93%
 Detecting symmetries...
-      0     0     5154.5696    91    11722.7200      Cuts: 30      598   56.03%
-      0     0     5221.1068   110    11722.7200      Cuts: 22      651   55.46%
-*     0+    0                         7113.9000     5221.1068            26.61%
-      0     0     5243.1464   119     7113.9000       Cuts: 9      673   26.30%
-      0     0     5275.7368   133     7113.9000      Cuts: 18      723   25.84%
-      0     0     5300.3993   138     7113.9000      Cuts: 25      775   25.49%
-      0     0     5309.9871   132     7113.9000      Cuts: 26      814   25.36%
-      0     0     5328.9546   134     7113.9000      Cuts: 28      845   25.09%
-      0     0     5367.6517   154     7113.9000      Cuts: 25      916   24.55%
-      0     0     5381.4972   146     7113.9000      Cuts: 20      943   24.35%
-      0     0     5429.4374   147     7113.9000      Cuts: 26     1002   23.68%
-      0     0     5453.1041   132     7113.9000      Cuts: 38     1045   23.35%
-      0     0     5540.2947   173     7113.9000      Cuts: 24     1115   22.12%
-      0     0     5571.3083   171     7113.9000      Cuts: 38     1178   21.68%
-      0     0     5577.5572   162     7113.9000      Cuts: 24     1229   21.60%
-      0     0     5582.1808   181     7113.9000      Cuts: 26     1271   21.53%
-      0     0     5585.2406   184     7113.9000      Cuts: 22     1307   21.49%
-      0     0     5588.7875   162     7113.9000       Cuts: 9     1344   21.44%
-      0     0     5589.5111   130     7113.9000      Cuts: 10     1361   21.43%
-      0     0     5591.7170   185     7113.9000       Cuts: 7     1388   21.40%
-      0     0     5593.6858   172     7113.9000       Cuts: 6     1404   21.37%
-      0     0     5596.6383   178     7113.9000       Cuts: 5     1418   21.33%
-      0     0     5596.6383   178     7113.9000    MIRcuts: 1     1419   21.33%
-      0     0     5596.6383   169     7113.9000   ZeroHalf: 1     1420   21.33%
+      0     0     5158.2780   142    14188.4500      Cuts: 25      696   63.64%
+      0     0     5174.4333   165    14188.4500  ZeroHalf: 14      726   63.53%
+      0     0     5214.7371   150    14188.4500      Cuts: 14      775   63.25%
+*     0+    0                         7113.9000     5214.7371            26.70%
+      0     0     5294.4788   146     7113.9000      Cuts: 21      875   25.58%
+      0     0     5301.7758   113     7113.9000      Cuts: 37      916   25.47%
+      0     0     5309.5659   149     7113.9000      Cuts: 19      954   25.36%
+      0     0     5315.9868   138     7113.9000      Cuts: 26      985   25.27%
+      0     0     5321.9110   111     7113.9000      Cuts: 25     1018   25.19%
+      0     0     5322.3180   155     7113.9000      Cuts: 23     1040   25.18%
+      0     0     5322.7957   138     7113.9000      Cuts: 24     1051   25.18%
+      0     0     5326.9806   146     7113.9000      Cuts: 24     1082   25.12%
+      0     0     5348.5866   160     7113.9000  ZeroHalf: 24     1144   24.81%
+      0     0     5358.9746   172     7113.9000      Cuts: 42     1214   24.67%
+      0     0     5376.6383   183     7113.9000      Cuts: 43     1264   24.42%
+      0     0     5410.7469   157     7113.9000      Cuts: 25     1330   23.94%
+      0     0     5435.6736   164     7113.9000      Cuts: 31     1380   23.59%
+      0     0     5466.4380   167     7113.9000      Cuts: 24     1448   23.16%
+      0     0     5497.1795   191     7113.9000      Cuts: 25     1497   22.73%
+      0     0     5499.6511   186     7113.9000      Cuts: 12     1526   22.69%
+      0     0     5512.2479   168     7113.9000      Cuts: 12     1563   22.51%
+      0     0     5517.7222   154     7113.9000      Cuts: 16     1587   22.44%
+      0     0     5525.3488   169     7113.9000      Cuts: 29     1626   22.33%
+      0     0     5527.3348   168     7113.9000       Cuts: 5     1629   22.30%
+      0     0     5535.0539   150     7113.9000   ZeroHalf: 3     1653   22.19%
+      0     0     5568.2090   170     7113.9000      Cuts: 39     1716   21.73%
+      0     0     5577.4665   177     7113.9000      Cuts: 30     1753   21.60%
+      0     0     5582.8281   174     7113.9000      Cuts: 36     1810   21.52%
+      0     0     5584.7459   174     7113.9000      Cuts: 20     1833   21.50%
+      0     0     5585.4504   176     7113.9000       Cuts: 9     1838   21.49%
 Detecting symmetries...
-      0     2     5596.6383   166     7113.9000     5596.6383     1420   21.33%
-Elapsed time = 0.66 sec. (256.86 ticks, tree = 0.02 MB, solutions = 6)
+      0     2     5585.4504   161     7113.9000     5585.4504     1838   21.49%
+Elapsed time = 1.00 sec. (275.23 ticks, tree = 0.02 MB, solutions = 7)
 
-Cover cuts applied:  1
-Implied bound cuts applied:  25
-Flow cuts applied:  21
-Mixed integer rounding cuts applied:  4
-Zero-half cuts applied:  62
-Lift and project cuts applied:  3
-Gomory fractional cuts applied:  5
+Implied bound cuts applied:  38
+Flow cuts applied:  18
+Mixed integer rounding cuts applied:  7
+Zero-half cuts applied:  65
+Lift and project cuts applied:  6
+Gomory fractional cuts applied:  7
 
 Root node processing (before b&c):
-  Real time             =    0.67 sec. (256.72 ticks)
+  Real time             =    1.00 sec. (274.95 ticks)
 Parallel b&c, 4 threads:
-  Real time             =    0.25 sec. (115.17 ticks)
-  Sync time (average)   =    0.07 sec.
+  Real time             =    0.28 sec. (91.43 ticks)
+  Sync time (average)   =    0.09 sec.
   Wait time (average)   =    0.00 sec.
                           ------------
-Total (root+branch&cut) =    0.92 sec. (371.89 ticks)
+Total (root+branch&cut) =    1.28 sec. (366.38 ticks)

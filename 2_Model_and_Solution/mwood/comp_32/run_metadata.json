@@ -1,12 +1,12 @@
 {
     "component_name": "comp_32",
     "harvesting_schedule": "mwood",
-    "UB": 2791.43,
-    "LB": 2791.43,
+    "UB": 144.81,
+    "LB": 144.81,
     "MIP_gap": 0.0,
-    "solver_runtime_seconds": 0.65,
-    "total_variables": 13500,
-    "nonzero_variables": 142,
+    "solver_runtime_seconds": 0.1,
+    "total_variables": 2000,
+    "nonzero_variables": 39,
     "solver_parameters": {
         "timelimit_seconds": 600.0,
         "mipgap": 0.0001

@@ -1,8 +1,0 @@
-Harvest Schedule: stake
-Total Objective Value: 404811.3
-Total Lower Bound: 342593.48
-Aggregate MIP Gap: 0.1537
-Mean Objective Value: 11906.21
-Median Objective Value: 3204.79
-Total Runtime (sec): 12191.35
-Mean Runtime (sec): 358.57
