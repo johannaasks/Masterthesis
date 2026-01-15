@@ -40,22 +40,12 @@ The model is applied to the Paiva forest intervention zone in northern Portugal,
 
 ## 🛠 Technologies Used
 
-- **Python 3** (via VS Code and Jupyter Notebooks)  
-
-- **Data Processing & Analysis:**  
-  `pandas`, `numpy`, `ast`, `csv`, `json`, `shutil`, `glob`, `time`, `math`, `re`, `pathlib`  
-
-- **Geospatial & Geometric Libraries:**  
-  `geopandas`, `shapely` (`Point`, `LineString`, `Polygon`, `MultiPoint`, `MultiLineString`, `MultiPolygon`, `GeometryCollection`), `wkt`  
-
-- **Visualization:**  
-  `matplotlib.pyplot`, `matplotlib.patches`, `matplotlib.lines.Line2D`, `mpl_toolkits.axes_grid1.inset_locator.inset_axes`, `matplotlib_scalebar.scalebar.ScaleBar`, `missingno`  
-
-- **Network Analysis & Optimization:**  
-  `networkx`, `cplex`  
-
-- **Utilities & Others:**  
-  `random`, `collections.Counter`, `pickle`  
+- **Python 3** with libraries for:
+  - **Data & Analysis:** `pandas`, `numpy`, `ast`, `csv`, `json`, `shutil`, `glob`, `math`, `re`, `pickle`  
+  - **Geospatial & Geometry:** `geopandas`, `shapely`  
+  - **Visualization:** `matplotlib`, `missingno`, `matplotlib_scalebar`  
+  - **Network & Optimization:** `networkx`, `cplex`  
+  - **Utilities:** `random`, `collections.Counter`
 
 ---
 
@@ -65,3 +55,38 @@ The model is applied to the Paiva forest intervention zone in northern Portugal,
    ```bash
    git clone https://github.com/johannaasks/Masterthesis.git
    cd Masterthesis
+
+2. Install dependencies (suggested via pip):
+
+```bash
+pip install -r requirements.txt
+
+## 📓 Explore Notebooks
+
+Work through the notebooks in sequence:
+
+- `0_Data_Preprocessing_HarvestingSchedule.ipynb` – preprocess harvesting schedule  
+- `1_Geodata_Preprocessing.ipynb` – preprocess geospatial data  
+- `2_HarvestingSchedule_Preprocessing.ipynb` – integrate preprocessing outputs  
+- `3_Problem_Segmentation.ipynb` – segment network problem for modeling  
+- `4_Graph_Creation.ipynb` – create potential road network graph  
+- `5_CPLEX_implementation_WORKFLOW.ipynb` – run linear optimization model  
+- `6_Solution_Postprocessing.ipynb` – analyze and visualize results  
+
+View results in the **2_Model_and_Solution** folder or use visualization notebooks.
+
+## 📊 Results
+
+- Minimum-cost timber road networks are generated while ensuring fire vehicle access.  
+- Reusable preprocessing workflows allow application to other case study areas.  
+- Visualizations (PNG files) illustrate network solutions and accessibility for wildfire response.
+
+## 📝 License
+
+This repository is licensed under the **Apache License 2.0**.  
+
+You are free to use, modify, and distribute this work under the license terms. Please preserve copyright and license notices.
+
+## ⚡ Keywords
+
+**Forest Road Network Planning | Wildfire Resilience | Operations Research | Decision Support | Integer Linear Programming**
