@@ -58,8 +58,8 @@ The model is applied to the Paiva forest intervention zone in northern Portugal,
 
 2. Install dependencies (suggested via pip):
 
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 ## 📓 Explore Notebooks
 
