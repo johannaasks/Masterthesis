@@ -2,9 +2,11 @@
 
 **A Linear Optimization Approach to Select a Cost-Minimizing and Fire Response Enhancing Road Network in Timber Forests**  
 *Master’s Dissertation by Johanna Barbara Tina Rauberger* 
+
 Supervisors:
 - Marta Guerreiro Duarte Mesquita de Oliveira, PhD
 - Susete Maria Gonçalves Marques, PhD  
+
 Degree: Master of Science in Data Science in Agriculture, Food, Forest and Environment  
 
 ---
