@@ -1,7 +1,8 @@
 # Integrating Wildfire Risk in Forest Road Network Planning
 
 **A Linear Optimization Approach to Select a Cost-Minimizing and Fire Response Enhancing Road Network in Timber Forests**  
-Master’s Thesis by Johanna Rauberger  
+Master’s Thesis by:
+- Johanna Barbara Tina Rauberger  
 Supervisors:
 - Marta Guerreiro Duarte Mesquita de Oliveira, PhD
 - Susete Maria Gonçalves Marques, PhD  
@@ -55,7 +56,7 @@ The model is applied to the Paiva forest intervention zone in northern Portugal,
 
 - **Utilities & Others:**  
   `random`, `collections.Counter`, `pickle`  
-  
+
 ---
 
 ## ⚙️ How to Run
