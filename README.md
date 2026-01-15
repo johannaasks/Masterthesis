@@ -65,9 +65,8 @@ The model is applied to the Paiva forest intervention zone in northern Portugal,
 
 Work through the notebooks in sequence:
 
-- `0_Data_Preprocessing_HarvestingSchedule.ipynb` – preprocess harvesting schedule  
-- `1_Geodata_Preprocessing.ipynb` – preprocess geospatial data  
-- `2_HarvestingSchedule_Preprocessing.ipynb` – integrate preprocessing outputs  
+- `1_Preprocessing_HarvestingSchedule.ipynb` – preprocess harvesting schedule  
+- `2_Geodata_Preprocessing.ipynb` – preprocess geospatial data
 - `3_Problem_Segmentation.ipynb` – segment network problem for modeling  
 - `4_Graph_Creation.ipynb` – create potential road network graph  
 - `5_CPLEX_implementation_WORKFLOW.ipynb` – run linear optimization model  
